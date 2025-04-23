@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/mounted-combat/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/mounted-combat/","tags":["TTRPG/DND/5e","Rules"],"noteIcon":""}
 ---
 
 A knight charging into battle on a [[Warhorse\|Warhorse]], a wizard casting spells from the back of a [[Griffon\|Griffon]], or a cleric soaring through the sky on  [[Pegasus\|Pegasus]] all enjoy the benefits of speed and mobility that a mount can provide.

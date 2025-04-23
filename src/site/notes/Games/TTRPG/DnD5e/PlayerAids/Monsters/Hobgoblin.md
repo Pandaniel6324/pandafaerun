@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/hobgoblin/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/hobgoblin/","tags":["TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 
@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- | 
 | 13(+1)    | 12(+1)    | 12(+1)     | 10(0) | 10(0) | 9(-1)|
 
-**Senses** [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] 60ft. Passive Perception 10
+**Senses** [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] 60ft. Passive Perception 10
 **Languages**   Common, Goblin
 **Challenge** 1/2 (100xp)
 

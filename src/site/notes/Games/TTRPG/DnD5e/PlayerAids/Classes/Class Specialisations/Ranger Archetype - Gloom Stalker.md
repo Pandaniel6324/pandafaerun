@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/ranger-archetype-gloom-stalker/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/ranger-archetype-gloom-stalker/","tags":["TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 
@@ -26,7 +26,7 @@ At the start of your first turn of each combat, your walking speed increases by 
 
 ### Umbral Sight
 
-At 3rd level, you gain [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet.
+At 3rd level, you gain [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet.
 
 You are also adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.
 

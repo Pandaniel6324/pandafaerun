@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/backpack/","tags":["TTRPG/DND/5e","container"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/backpack/","tags":["TTRPG/DND/5e","container"],"noteIcon":""}
 ---
 
 

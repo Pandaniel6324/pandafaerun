@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/kits-tools-and-packs/tinker-s-tools/","tags":["TTRPG/DND/5e","utility"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/kits-tools-and-packs/tinker-s-tools/","tags":["TTRPG/DND/5e","utility"],"noteIcon":""}
 ---
 
 

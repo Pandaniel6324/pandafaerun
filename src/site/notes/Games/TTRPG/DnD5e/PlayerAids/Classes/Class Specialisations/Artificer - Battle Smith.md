@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/artificer-battle-smith/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/artificer-battle-smith/","tags":["TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 
@@ -56,7 +56,7 @@ At the end of a long rest, you can create a new steel defender if you have smith
 |**Skills:** Athletics +2 plus PB, Perception +0 plus PB x 2|   |   |   |   |   |
 |**Damage Immunities:** poison|   |   |   |   |   |
 |**Condition Immunities:** charmed, exhaustion, poisoned|   |   |   |   |   |
-|**Senses:** [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] 60 ft., passive Perception 10 + (PB x 2)|   |   |   |   |   |
+|**Senses:** [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] 60 ft., passive Perception 10 + (PB x 2)|   |   |   |   |   |
 |**Languages:** understands the languages you speak|   |   |   |   |   |
 |**Challenge:** —|   |   |   |   |   |
 |**Proficiency Bonus (PB):** equals your bonus|   |   |   |   |   |

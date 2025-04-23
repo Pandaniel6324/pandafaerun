@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/sub-races/merfolk-subrace-deepwater/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/sub-races/merfolk-subrace-deepwater/","tags":["TTRPG/DND/5e","Races"],"noteIcon":""}
 ---
 
 
@@ -31,4 +31,4 @@ requires a somatic component, you can perform these gestures using your tentacle
 even if your hands are restrained or otherwise unavailable.
 
 **Darkvision**
-You have [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] with a range of 60 feet.
+You have [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] with a range of 60 feet.

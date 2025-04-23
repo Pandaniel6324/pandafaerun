@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/friends/","tags":["TTRPG/DND/5e","somatic","material","concentration","control","buff"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/friends/","tags":["TTRPG/DND/5e","somatic","material","concentration","control","buff","Spell"],"noteIcon":""}
 ---
 
 

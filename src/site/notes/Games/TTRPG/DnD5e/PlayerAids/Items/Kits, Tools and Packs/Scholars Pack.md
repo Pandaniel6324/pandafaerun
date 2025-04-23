@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/kits-tools-and-packs/scholars-pack/","tags":["TTRPG/DND/5e","social","utility","container"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/kits-tools-and-packs/scholars-pack/","tags":["TTRPG/DND/5e","social","utility","container"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/kits-tools-and-packs/explorer-s-pack/","tags":["TTRPG/DND/5e","utility","exploration","container"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/kits-tools-and-packs/explorer-s-pack/","tags":["TTRPG/DND/5e","utility","exploration","container"],"noteIcon":""}
 ---
 
 

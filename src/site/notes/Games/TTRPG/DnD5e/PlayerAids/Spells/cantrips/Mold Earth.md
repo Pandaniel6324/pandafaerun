@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/mold-earth/","tags":["TTRPG/DND/5e","somatic","control"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/mold-earth/","tags":["TTRPG/DND/5e","somatic","control","Spell"],"noteIcon":""}
 ---
 
 

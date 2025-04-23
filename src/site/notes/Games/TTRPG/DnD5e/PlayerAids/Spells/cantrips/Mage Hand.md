@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/mage-hand/","tags":["TTRPG/DND/5e","verbal","somatic","utility"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/mage-hand/","tags":["TTRPG/DND/5e","verbal","somatic","utility","Spell"],"noteIcon":""}
 ---
 
 

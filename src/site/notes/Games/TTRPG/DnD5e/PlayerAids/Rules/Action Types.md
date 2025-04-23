@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/action-types/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/action-types/","tags":["TTRPG/DND/5e","Rules"],"noteIcon":""}
 ---
 
 **In-universe, a single turn is 6 seconds.**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/thunderclap/","tags":["TTRPG/DND/5e","somatic","damage"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/thunderclap/","tags":["TTRPG/DND/5e","somatic","damage","Spell"],"noteIcon":""}
 ---
 
 

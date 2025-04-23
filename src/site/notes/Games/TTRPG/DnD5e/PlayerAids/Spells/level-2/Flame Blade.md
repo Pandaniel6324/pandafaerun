@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/flame-blade/","tags":["TTRPG/DND/5e","verbal","somatic","material","concentration"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/flame-blade/","tags":["TTRPG/DND/5e","verbal","somatic","material","concentration","Spell"],"noteIcon":""}
 ---
 
 

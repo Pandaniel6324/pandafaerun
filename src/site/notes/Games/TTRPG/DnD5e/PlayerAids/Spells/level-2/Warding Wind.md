@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/warding-wind/","tags":["TTRPG/DND/5e","verbal","concentration"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/warding-wind/","tags":["TTRPG/DND/5e","verbal","concentration","Spell"],"noteIcon":""}
 ---
 
 

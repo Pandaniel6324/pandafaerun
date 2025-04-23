@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/goblin/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/goblin/","tags":["TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 Small humanoid (Goblinoid), neutral evil

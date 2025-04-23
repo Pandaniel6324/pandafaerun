@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/mass-suggestion/","tags":["TTRPG/DND/5e","verbal","material"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/mass-suggestion/","tags":["TTRPG/DND/5e","verbal","material","Spell"],"noteIcon":""}
 ---
 
 

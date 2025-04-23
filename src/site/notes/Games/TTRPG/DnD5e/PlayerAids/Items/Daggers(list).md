@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/daggers-list/"}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/daggers-list/","noteIcon":""}
 ---
 
 | File                                                     | Item Rarity | Armor Class |

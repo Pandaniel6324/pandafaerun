@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-5/commune-with-nature/","tags":["TTRPG/DND/5e","verbal","somatic","ritual"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-5/commune-with-nature/","tags":["TTRPG/DND/5e","verbal","somatic","ritual","Spell"],"noteIcon":""}
 ---
 
 

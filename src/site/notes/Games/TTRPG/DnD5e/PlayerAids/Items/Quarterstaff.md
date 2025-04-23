@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/quarterstaff/","tags":["TTRPG/DND/5e","damage","combat"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/quarterstaff/","tags":["TTRPG/DND/5e","damage","combat"],"noteIcon":""}
 ---
 
 

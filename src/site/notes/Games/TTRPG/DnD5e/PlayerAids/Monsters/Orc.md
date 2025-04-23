@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/orc/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/orc/","tags":["TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 
@@ -12,7 +12,7 @@
 |  16(+3)   | 12(+1)    | 16+3     | 7(-2) | 11(+0)| 10(+0)|
 
 **Skills** Intimidation +2
-**Senses** [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] 60ft, Passive Perception 10
+**Senses** [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] 60ft, Passive Perception 10
 **Languages**   Common, Orc
 **Challenge** 1/2 (100xp)
 **Proficiency Bonus** +2

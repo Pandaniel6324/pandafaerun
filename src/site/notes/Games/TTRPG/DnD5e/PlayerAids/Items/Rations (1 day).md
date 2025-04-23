@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/rations-1-day/","tags":["TTRPG/DND/5e","social","utility","consumable"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/rations-1-day/","tags":["TTRPG/DND/5e","social","utility","consumable"],"noteIcon":""}
 ---
 
 

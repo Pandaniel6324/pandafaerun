@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/illusory-script/","tags":["TTRPG/DND/5e","somatic","material","ritual"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/illusory-script/","tags":["TTRPG/DND/5e","somatic","material","ritual","Spell"],"noteIcon":""}
 ---
 
 

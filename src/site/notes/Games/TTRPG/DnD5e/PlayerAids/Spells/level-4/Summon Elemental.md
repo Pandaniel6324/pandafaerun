@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-4/summon-elemental/","tags":["TTRPG/DND/5e","concentration","Verb","somatic","material"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-4/summon-elemental/","tags":["TTRPG/DND/5e","concentration","Verb","somatic","material","Spell"],"noteIcon":""}
 ---
 
 

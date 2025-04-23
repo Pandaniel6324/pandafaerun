@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/monk-way-of-the-shadow/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/monk-way-of-the-shadow/","tags":["TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 
@@ -9,7 +9,7 @@ Source: Player's Handbook
 
 ### Shadow Arts
 
-Starting when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Darkness\|Darkness]] ,[[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] , [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Pass Without Trace\|Pass Without Trace]] , or [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Silence\|Silence]] , without providing material components. Additionally, you gain the [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Minor Illusion\|Minor Illusion]]  cantrip if you don't already know it.
+Starting when you choose this tradition at 3rd level, you can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Darkness\|Darkness]] ,[[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] , [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Pass Without Trace\|Pass Without Trace]] , or [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Silence\|Silence]] , without providing material components. Additionally, you gain the [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Minor Illusion\|Minor Illusion]]  cantrip if you don't already know it.
 
 ### Shadow Step
 

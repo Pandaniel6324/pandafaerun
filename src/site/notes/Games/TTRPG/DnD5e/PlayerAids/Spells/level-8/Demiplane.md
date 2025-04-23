@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/demiplane/","tags":["TTRPG/DND/5e","somatic"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/demiplane/","tags":["TTRPG/DND/5e","somatic","Spell"],"noteIcon":""}
 ---
 
 

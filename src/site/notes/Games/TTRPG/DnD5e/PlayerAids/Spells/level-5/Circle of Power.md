@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-5/circle-of-power/","tags":["TTRPG/DND/5e","verbal","concentration"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-5/circle-of-power/","tags":["TTRPG/DND/5e","verbal","concentration","Spell"],"noteIcon":""}
 ---
 
 

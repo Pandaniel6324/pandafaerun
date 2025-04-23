@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/infestation/","tags":["TTRPG/DND/5e","verbal","somatic","material","damage","control"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/infestation/","tags":["TTRPG/DND/5e","verbal","somatic","material","damage","control","Spell"],"noteIcon":""}
 ---
 
 

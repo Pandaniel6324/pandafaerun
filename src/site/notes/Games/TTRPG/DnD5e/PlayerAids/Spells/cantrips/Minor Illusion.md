@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/minor-illusion/","tags":["TTRPG/DND/5e","somatic","material","control"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/minor-illusion/","tags":["TTRPG/DND/5e","somatic","material","control","Spell"],"noteIcon":""}
 ---
 
 
