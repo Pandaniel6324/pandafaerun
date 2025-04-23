@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/ring-mail/","tags":["TTRPG/DND/5e"]}
+---
+
+
+heavy armor (armor)
+
+- AC: 14
+- Category: Items
+
+- Item Rarity: Standard
+
+- Stealth: Disadvantage
+
+- Weight: 40
