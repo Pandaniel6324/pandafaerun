@@ -29,5 +29,5 @@
 | Sub-Races                 | Source            |
 | ------------------------- | ----------------- |
 | [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf Subrace- Dark Elf\|Elf Subrace- Dark Elf]] | Player's Handbook |
-| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/High Elf\|High Elf]] | Player's Handbook |
-| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf Sub-Race - Wood\|Elf Sub-Race - Wood]]                          |  Player's Handbook                 |
+| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf-Subrace High Elf\|Elf-Subrace High Elf]] | Player's Handbook |
+| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf Subrace - Wood\|Elf Subrace - Wood]]                          |  Player's Handbook                 |

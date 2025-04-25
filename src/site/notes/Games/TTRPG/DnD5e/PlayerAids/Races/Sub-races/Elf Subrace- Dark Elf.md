@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/sub-races/elf-subrace-dark-elf/","tags":["TTRPG/DND/5e","Races"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/sub-races/elf-subrace-dark-elf/","tags":["TTRPG/DND/5e","Races","Sub-Races"],"noteIcon":""}
 ---
 
 

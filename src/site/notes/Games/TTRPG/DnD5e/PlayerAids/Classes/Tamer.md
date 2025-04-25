@@ -426,7 +426,7 @@ _3rd-level Tamer feature_
 You choose the type of Training Paradigm you follow from the list of available paradigms, which are detailed after the class’s description. Your choice grants you features at 3rd level and again at 7th, 10th, and 14th level. At 18th level, the 7th-level feature is improved.
 
 - [[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Tamer - Leader Paradigm\|Tamer - Leader Paradigm]]
-- [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Tamer - Infuser Paradigm\|Tamer - Infuser Paradigm]]
+- [[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Tamer - Infuser Paradigm\|Tamer - Infuser Paradigm]]
 - [[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Tamer - Necromancy Paradigm\|Tamer - Necromancy Paradigm]]
 - [[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Tamer - Splicer Paradigm\|Tamer - Splicer Paradigm]]
 
