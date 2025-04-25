@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/produce-flame/","tags":["TTRPG/DND/5e","verbal","somatic","damage","creation"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/produce-flame/","tags":["TTRPG/DND/5e","verbal","somatic","damage","creation","Spell"],"noteIcon":""}
 ---
 
 

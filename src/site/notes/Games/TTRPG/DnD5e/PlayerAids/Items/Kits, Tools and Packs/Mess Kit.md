@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/kits-tools-and-packs/mess-kit/","tags":["TTRPG/DND/5e","social","utility"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/kits-tools-and-packs/mess-kit/","tags":["TTRPG/DND/5e","social","utility"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/warlock/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/warlock/","tags":["TTRPG/DND/5e","Class"],"noteIcon":""}
 ---
 
 
@@ -163,8 +163,8 @@ At 3rd level, your otherworldly patron bestows a gift upon you for your loyal se
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Dancing Lights\|Dancing Lights]]     | 0           | Evocation     | action       | 120 feet |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Eldritch Blast\|Eldritch Blast]]     | 0           | Evocation     | action       | 120 feet |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Fire Bolt\|Fire Bolt]]               | 0           | Evocation     | action       | 120 feet |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Frostbite\|Frostbite]]               | 0           | Evocation     | action       | 60 feet  |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Greenflame Blade\|Greenflame Blade]] | 0           | Evocation     | \-           | 5 feet   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Frostbite\|Frostbite]]               | 0           | Evocation     | action       | 60 feet  |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Light\|Light]]                       | 0           | Evocation     | action       | touch    |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Lightning Lure\|Lightning Lure]]     | 0           | Evocation     | action       | 15 feet  |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Ray of Frost\|Ray of Frost]]         | 0           | Evocation     | action       | 60 feet  |
@@ -237,8 +237,8 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Minor Illusion\|Minor Illusion]]                                  | 0           | Illusion      | action                                                                                                      | 30 feet                |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Booming Blade\|Booming Blade]]                                    | 0           | Evocation     | action                                                                                                      | 5 feet                 |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Eldritch Blast\|Eldritch Blast]]                                  | 0           | Evocation     | action                                                                                                      | 120 feet               |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Frostbite\|Frostbite]]                                            | 0           | Evocation     | action                                                                                                      | 60 feet                |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Greenflame Blade\|Greenflame Blade]]                              | 0           | Evocation     | \-                                                                                                          | 5 feet                 |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Frostbite\|Frostbite]]                                            | 0           | Evocation     | action                                                                                                      | 60 feet                |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Lightning Lure\|Lightning Lure]]                                  | 0           | Evocation     | action                                                                                                      | 15 feet                |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Thunderclap\|Thunderclap]]                                        | 0           | Evocation     | action                                                                                                      | self                   |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Friends\|Friends]]                                                | 0           | Enchantment   | action                                                                                                      | self                   |

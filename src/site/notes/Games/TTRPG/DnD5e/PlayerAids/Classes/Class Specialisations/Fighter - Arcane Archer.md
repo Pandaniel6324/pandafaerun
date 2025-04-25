@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/fighter-arcane-archer/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/fighter-arcane-archer/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/sword-burst/","tags":["TTRPG/DND/5e","verbal","buff","damage"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/sword-burst/","tags":["TTRPG/DND/5e","verbal","buff","damage","Spell"],"noteIcon":""}
 ---
 
 

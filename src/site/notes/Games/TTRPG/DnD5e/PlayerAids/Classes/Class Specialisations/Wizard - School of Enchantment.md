@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/wizard-school-of-enchantment/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/wizard-school-of-enchantment/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 

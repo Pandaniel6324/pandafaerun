@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/elves/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/elves/","tags":["TTRPG/DND/5e","Races"],"noteIcon":""}
 ---
 
 
@@ -15,7 +15,7 @@
 
 - **Speed.** Your base walking speed is 30 feet.
 
-[[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] - Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. 
+[[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] - Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. 
 
 - **Fey Ancestry.** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 
@@ -30,4 +30,4 @@
 | ------------------------- | ----------------- |
 | [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf Subrace- Dark Elf\|Elf Subrace- Dark Elf]] | Player's Handbook |
 | [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/High Elf\|High Elf]] | Player's Handbook |
-| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Sub-Race - Wood\|Sub-Race - Wood]]                          |  Player's Handbook                 |
+| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf Sub-Race - Wood\|Elf Sub-Race - Wood]]                          |  Player's Handbook                 |

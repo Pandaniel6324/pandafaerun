@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/true-strike/","tags":["TTRPG/DND/5e","somatic","concentration","foreknowledge"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/true-strike/","tags":["TTRPG/DND/5e","somatic","concentration","foreknowledge","Spell"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/sub-races/elf-subrace-dark-elf/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/sub-races/elf-subrace-dark-elf/","tags":["TTRPG/DND/5e","Races"],"noteIcon":""}
 ---
 
 
@@ -11,7 +11,7 @@
 
 - **Ability Score Increase.** Your Charisma score increases by 1.
 
-- **Superior Darkvision.** Your [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] has a range of 120 feet, instead of 60.
+- **Superior Darkvision.** Your [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] has a range of 120 feet, instead of 60.
 
 - **Sunlight Sensitivity.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/backgrounds/anthropologist/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/backgrounds/anthropologist/","tags":["TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 

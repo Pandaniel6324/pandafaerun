@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/tamer/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/tamer/","tags":["TTRPG/DND/5e","Class"],"noteIcon":""}
 ---
 
 # Tamer
@@ -266,3 +266,243 @@ To tame a creature, you must prepare a **vessel** using special inks, gems, or m
 > - You can release a companion from its vessel at any time. The vessel remains intact and can be reused.
 >     
 
+## Taming a Creature
+
+As an action, you can throw an empty vessel at a creature you can see within **30 feet** of you. The creature must succeed on a **Charisma saving throw** against your **tamer spell save DC** or be trapped within the vessel. A creature automatically succeeds on this saving throw if:
+
+- It is a humanoid, giant, or swarm.
+    
+- It is larger than your maximum companion size (use a creature’s unaltered size if it is under the influence of a size-changing magical effect, such as _enlarge/reduce_).
+    
+- It has a higher CR than your maximum companion CR (see the Tamer Companion Summary table).
+    
+- It has a higher CR than the vessel can capture.
+    
+- It has more than half of its hit points.
+    
+
+If a creature doesn’t automatically succeed on this saving throw for one of the above reasons, and has either fewer than ten hit points or one-quarter of its hit points, it automatically fails this saving throw. A creature that fails the saving throw is trapped in your vessel and becomes your companion when you next finish a long rest.
+
+### Lost Traits
+
+When a creature becomes your companion, it loses the following from its stat block:
+
+- The ability to cast any spells (though it retains its spells known, see Psychic Bond, page 205).
+    
+- Any summoning actions or actions that create additional creatures (such as a wraith’s Create Specter action or an ooze’s Split reaction).
+    
+- The Regeneration, Rejuvenation, and Legendary Resistance traits.
+    
+- Any effect that restores hit points, unless that effect has a limited number of uses per day.
+    
+- Any legendary actions, mythic traits, legendary action options, and mythic action options.
+    
+- Any lair actions and regional effects.
+    
+
+---
+
+> ### Optional Rule: Non-Combat Taming
+> 
+> If a player impresses a celestial with an especially noble act, or rears a creature from an egg, that creature might be willing to become a tamer’s companion. If so, feel free to ignore the usual rules regarding saving throws on taming, and let the beautiful story of companionship unfold!
+
+---
+
+## Abilities and Proficiency
+
+As your companions’ ability scores change—often through Companion Improvement Training—their skill modifiers, saving throws, attack modifiers, and saving throw DCs will also change. Working out what ability a creature’s attack or saving throw uses can require a bit of detective work.
+
+First you have to know the creature’s proficiency bonus (PB). Luckily this is quite easy: It all depends on the creature’s CR and players’ PB. A creature’s base PB is +2 at CR 0–4 and +3 at CR 5–6. To proceed, subtract the creature’s PB from its modifiers/save DCs. For save DCs, subtract an additional 8 from the DC. Finally, match the remaining values to the ability score modifiers.
+
+Let’s use the CR 4 red dragon wyrmling’s bite attack and breath weapon as an example. It has a PB of +2, a Strength of 19 (+4), a Dexterity of 10 (+0), and a Constitution of 17 (+3). Its bite attack has a +6 modifier, while its breath weapon is a DC 13 Dexterity saving throw. Subtracting the PB from these values (and 8 from the DC), we are left with +4 and DC 5.
+
+We can deduce that the bite attack uses Strength (the +4 matches the wyrmling’s Strength modifier), and the fire breath uses Constitution (DC 3 matches the wyrmling’s +3 Constitution modifier).
+
+If the wyrmling’s tamer is 13th level (with a PB of +5), then the wyrmling’s PB increases from +2 to +5 when it becomes a companion. This results in its attack modifier and save DC increasing to +9 and DC 16, respectively.
+
+---
+
+## Spellcasting
+
+_2nd-level Tamer feature_
+
+By 2nd level, you have learned to harness your mental fortitude to augment the potential of others. You can cast tamer spells. See page 499 for the tamer spell list.
+
+### Cantrips
+
+At 2nd level, you know two cantrips of your choice from the tamer spell list. You learn additional tamer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Tamer table. 
+
+## Spell Slots
+
+The Tamer table shows how many spell slots you have to cast your tamer spells of 1st level and higher. To cast one of these tamer spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell _animal friendship_ and have a 1st-level and a 2nd-level spell slot available, you can cast _animal friendship_ using either slot.
+
+---
+
+## Spells Known of 1st Level and Higher
+
+You know two 1st-level spells of your choice from the tamer spell list.
+
+The Spells Known column of the Tamer table shows when you learn more tamer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the tamer spells you know and replace it with another spell from the tamer spell list, which also must be of a level for which you have spell slots.
+
+---
+
+## Spellcasting Ability
+
+When you gain your first level in this class, choose whether you use your knowledge (Intelligence), willpower (Wisdom), or force of personality (Charisma) as your spellcasting ability for your tamer spells. You use this spellcasting ability whenever a spell refers to your spellcasting ability. In addition, you use your spellcasting ability modifier when setting the saving throw DC for a tamer spell you cast and when making an attack roll with one.
+
+- **Spell save DC** = 8 + your proficiency bonus + your spellcasting ability modifier
+    
+- **Spell attack modifier** = your proficiency bonus + your spellcasting ability modifier
+    
+
+---
+
+## Spellcasting Focus
+
+You can use a creature’s vessel as a spellcasting focus for your tamer spells.
+
+---
+
+## Powerful Companion Abilities
+
+Some monster features are very powerful and aren’t designed for use by players. The two most common are recharge actions and gazes. You can help make a companion more balanced by changing these features slightly. It’s advised to approach this on a case-by-case basis, as each feature is different, and some might not require changing.
+
+### Recharge Abilities
+
+Some creatures’ actions have the addendum “Recharge (5–6)”. This means that after a creature uses that action, it can’t use it again until it has recharged. At the start of the creature’s turn, you roll a d6, and if the result is a 5 or higher, the action recharges. No class has recharge abilities, in part because they add a lot of randomness to the game. Instead of using this recharge mechanic, you can simply change any ability with a recharge to one of the following:
+
+|Recharge Condition|Companion Recharge|
+|---|---|
+|Recharge (4–6)|Recharges after 1 minute|
+|Recharge (5–6)|Recharges after 10 minutes|
+|Recharge (6)|Recharges on a short or long rest|
+
+### Perpetually Active Abilities
+
+Some traits, like a medusa’s _Petrifying Gaze_, which is perpetually active and has the power of a 6th-level spell, have the potential to become overpowered and repetitive. To balance this, you can add the caveat that:
+
+> “After a creature makes a saving throw against this effect, it is immune to the effect for the next 24 hours.”
+
+Work with your GM to find a balanced solution for your game.
+
+---
+
+## Bolster
+
+_2nd-level Tamer feature_
+
+While your companion is within **100 feet** of you and you are holding its vessel, or if you are holding its vessel with it inside, you can use an action to expend one spell slot to restore hit points to your companion equal to your **spellcasting ability modifier** (minimum 1) plus an additional **2d4** per level of the spell slot expended.
+
+## Psychic Bond
+
+_2nd-level Tamer feature_
+
+While your companion is within **100 feet** of you, you can communicate with it telepathically. Additionally, as an action, you can see through your companion’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the companion has. During this time, you are deaf and blind with regard to your own senses.
+
+**Spell Swap.** While your companion is summoned, is within **100 feet** of you, and you hold its vessel, any spells your companion knows are added to your known spells. In addition, when you cast a spell with a range of self or touch, your companion can be the target of that spell.
+
+---
+
+## Pocket Family
+
+_3rd-level Tamer feature_
+
+As you gain levels in this class, the number of companions and maximum size of companion to which you can become bonded increases. You can be bonded to two, three, four, five, or six creatures at 3rd, 7th, 11th, 15th, and 19th level, respectively.
+
+Your companions can be sized Medium at 5th level, Large at 11th level, and Huge at 17th level. If you are already bonded to your maximum number of companions and become bonded to a new companion, you must choose one existing companion to release from its vessel.
+
+When you bond with a new companion, the companion gains improvements and Hit Dice based on its CR and your tamer level. See the Tamer Companion Summary table (page 202) for details.
+
+---
+
+## Training Paradigm
+
+_3rd-level Tamer feature_
+
+You choose the type of Training Paradigm you follow from the list of available paradigms, which are detailed after the class’s description. Your choice grants you features at 3rd level and again at 7th, 10th, and 14th level. At 18th level, the 7th-level feature is improved.
+
+- [[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Tamer - Leader Paradigm\|Tamer - Leader Paradigm]]
+- [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Tamer - Infuser Paradigm\|Tamer - Infuser Paradigm]]
+- [[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Tamer - Necromancy Paradigm\|Tamer - Necromancy Paradigm]]
+- [[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Tamer - Splicer Paradigm\|Tamer - Splicer Paradigm]]
+
+---
+
+## Ability Score Improvement
+
+_4th-level Tamer feature_
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+---
+
+## Multiattack
+
+_5th-level Tamer feature_
+
+Through rigorous training, you can access the innate fury of your companions. When you take a bonus action or action to command your companion, you can command it to use its Multiattack action, if it has one.
+
+---
+
+## Malleable Presence
+
+_5th-level Tamer feature_
+
+While your companion is within **100 feet** of you, you can order it to change its behaviour towards one creature you can see as part of the bonus action or action you use to command it. Choose either the aggressive or cautious behaviours.
+
+At the start of each of the target creature’s turns for the next **minute**, it must make a **Wisdom saving throw** versus your **tamer spell save DC** if it is within **30 feet** of your companion and can see your companion. On a failure, it suffers the effects of the associated behaviour until the start of its next turn. On a success, it is unaffected.
+
+- **Aggressive.** The creature has **disadvantage** on attack rolls it makes against creatures other than your companion.
+    
+- **Cautious.** The creature has **disadvantage** on attack rolls against your companion if there is another creature hostile towards the attacker within **5 feet** of the attacker.
+    
+
+After you use this feature, you can’t do so again until you finish a short or long rest.
+
+---
+
+## Alpha Strike
+
+_6th-level Tamer feature_
+
+While summoning a companion, your psychic connection is at its closest, allowing you to quickly relay your intent. As part of the action to summon a companion, you can command it to take an action in its stat block or some other action, which it does so on its turn.
+
+You can use this feature a number of times equal to your tamer spellcasting ability modifier (a minimum of once). You regain all expended uses of this feature when you finish a long rest.
+
+## Wilful Blows  
+**6th-level Tamer feature**  
+
+Your magical potency is channeled through your companions’ strikes.  
+Your companions’ attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+---
+
+## Switcheroo  
+**13th-level Tamer feature**  
+
+You learn how to switch places with your companion in the nick of time.  
+
+While you and your companion are within 100 feet of each other, you can use a **bonus action**, or a **reaction** when you or your companion is the target of an attack by an attacker you can see, to magically switch places with your companion.
+
+If performed as a reaction, the creature that appears in the targeted creature’s space becomes the new target of the attack.
+
+You have a number of uses of this feature equal to your Tamer spellcasting ability modifier (minimum of once). You regain all expended uses when you finish a long rest.
+
+---
+
+## Magnificent Presence  
+**17th-level Tamer feature**  
+
+While your companion is within 100 feet of you, you can order it to change its behaviour as part of the **bonus action** or **action** you use to command it. Choose either the **Provoking Poise** or **Shrinking Violet** behaviours:
+
+- **Provoking Poise.** For the next minute, your companion draws the attention of nearby creatures.  
+  While within 15 feet of your companion, any creature that is hostile towards your companion and that can see it has **disadvantage on attack rolls** it makes against creatures other than your companion.
+
+- **Shrinking Violet.** For the next minute, your companion appears small and unassuming, making little noise.  
+  Any creature that is hostile towards your companion has **disadvantage on attack rolls** against your companion if there is another creature hostile towards the attacker within 15 feet of the attacker.
+
+After you use this feature, you can’t do so again until you finish a long rest.

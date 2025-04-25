@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/goblin-boss/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/goblin-boss/","tags":["TTRPG/DND/5e","StatBlock"],"noteIcon":""}
 ---
 
 
@@ -12,7 +12,7 @@
 |  10(+0)   |  14(+2)   | 10(+0)   | 10(+0) | 8(-1) | 10(+0) |
 
 **Skills** Stealth +6
-**Senses** [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]]  60 ft., Passive Perception 9
+**Senses** [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]]  60 ft., Passive Perception 9
 **Languages**  Common, Goblin
 **Challenge** 1
 

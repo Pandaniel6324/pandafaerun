@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/brown-bear/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/brown-bear/","tags":["TTRPG/DND/5e","StatBlock"],"noteIcon":""}
 ---
 
 
@@ -12,7 +12,7 @@
 |  17 (+3)   | 12(+1)    | 15(+2)     | 2(-4) | 13(+1) | 7(-2) |
 
 **Skills** Perception +3
-**Senses** [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] 60ft, Passive Perception 13
+**Senses** [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] 60ft, Passive Perception 13
 **Challenge** 1(200xp)
 **Proficieny Bonus** +2
 

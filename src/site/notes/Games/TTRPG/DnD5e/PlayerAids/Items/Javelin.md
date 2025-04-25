@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/javelin/","tags":["TTRPG/DND/5e","combat","damage"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/javelin/","tags":["TTRPG/DND/5e","combat","damage"],"noteIcon":""}
 ---
 
 

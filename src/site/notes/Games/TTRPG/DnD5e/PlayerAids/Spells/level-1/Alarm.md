@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/alarm/","tags":["TTRPG/DND/5e","verbal","somatic","material","ritual","detection"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/alarm/","tags":["TTRPG/DND/5e","verbal","somatic","material","ritual","detection","Spell"],"noteIcon":""}
 ---
 
 

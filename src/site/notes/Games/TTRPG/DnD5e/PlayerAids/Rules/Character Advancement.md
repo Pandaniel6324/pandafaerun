@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/character-advancement/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/character-advancement/","tags":["TTRPG/DND/5e","Rules"],"noteIcon":""}
 ---
 
 ## Beyond 1st Level

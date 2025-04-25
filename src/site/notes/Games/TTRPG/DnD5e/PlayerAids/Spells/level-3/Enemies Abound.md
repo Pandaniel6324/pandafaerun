@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/enemies-abound/","tags":["TTRPG/DND/5e","verbal","somatic","concentration"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/enemies-abound/","tags":["TTRPG/DND/5e","verbal","somatic","concentration","Spell"],"noteIcon":""}
 ---
 
 

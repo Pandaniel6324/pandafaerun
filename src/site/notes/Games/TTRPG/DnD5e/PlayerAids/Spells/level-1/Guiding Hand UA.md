@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/guiding-hand-ua/","tags":["TTRPG/DND/5e","verbal","somatic","concentration","ritual"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/guiding-hand-ua/","tags":["TTRPG/DND/5e","verbal","somatic","concentration","ritual","Spell"],"noteIcon":""}
 ---
 
 

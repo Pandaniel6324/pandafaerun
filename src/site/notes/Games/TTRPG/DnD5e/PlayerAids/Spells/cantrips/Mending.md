@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/mending/","tags":["TTRPG/DND/5e","verbal","somatic","material","utility"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/mending/","tags":["TTRPG/DND/5e","verbal","somatic","material","utility","Spell"],"noteIcon":""}
 ---
 
 

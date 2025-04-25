@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/blindness-deafness/","tags":["TTRPG/DND/5e","verbal"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/blindness-deafness/","tags":["TTRPG/DND/5e","verbal","Spell"],"noteIcon":""}
 ---
 
 

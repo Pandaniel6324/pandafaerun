@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/giant-inferno-spider/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/giant-inferno-spider/","tags":["TTRPG/DND/5e","StatBlock"],"noteIcon":""}
 ---
 
 
@@ -12,7 +12,7 @@
 | 14(+2)  |  14(+2)   | 12(+1)     | 2(-4) | 11(+0) |  4(-3)|
 
 **Skills** Stealth +6
-**Senses** [[Games/TTRPG/DnD5e/DMTools/Rules/Blindsight\|Blindsight]] 10ft, [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] 60ft, Passive Perception 10
+**Senses** [[Games/TTRPG/DnD5e/DMTools/Rules/Blindsight\|Blindsight]] 10ft, [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] 60ft, Passive Perception 10
 **Languages**   -
 **Challenge** 1 (200xp)
 

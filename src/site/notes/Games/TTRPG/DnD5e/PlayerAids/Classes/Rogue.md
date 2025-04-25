@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/rogue/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/rogue/","tags":["TTRPG/DND/5e","Class"],"noteIcon":""}
 ---
 
 
@@ -100,7 +100,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 |[[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Rogue - Scout\|Rogue - Scout]]|Xanathar's Guide to Everything|
 |[[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Rogue - Soul Knife\|Rogue - Soul Knife]]|Tasha's Cauldron of Everything|
 |[[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Rogue - Swashbuckler\|Rogue - Swashbuckler]]|Xanathar's Guide to Everything|
-|[[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Rogue-Thief\|Rogue-Thief]]|Player's Handbook|
+|[[Games/TTRPG/DnD5e/PlayerAids/Classes/Class Specialisations/Rogue - Thief\|Rogue - Thief]]|Player's Handbook|
 
 ### Steady Aim (Optional)
 

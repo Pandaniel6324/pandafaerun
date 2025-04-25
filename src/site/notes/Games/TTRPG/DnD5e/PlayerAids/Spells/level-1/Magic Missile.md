@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/magic-missile/","tags":["TTRPG/DND/5e","verbal","somatic"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/magic-missile/","tags":["TTRPG/DND/5e","verbal","somatic","Spell"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/galders-tower/","tags":["TTRPG/DND/5e","verbal","somatic","material"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/galders-tower/","tags":["TTRPG/DND/5e","verbal","somatic","material","Spell"],"noteIcon":""}
 ---
 
 

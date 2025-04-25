@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/kitsune/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/kitsune/","tags":["TTRPG/DND/5e","Races"],"noteIcon":""}
 ---
 
 
@@ -25,7 +25,7 @@ Kitsunes typically have names that would fit someone of their humanoid forms rac
 
 **Speed:** Your base walking speed is 30ft
 
-[[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]]
+[[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]]
 
 **Fox's Sense:** You have proficiency in the Perception skill. 
 

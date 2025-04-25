@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/ranger/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/ranger/","tags":["TTRPG/DND/5e","Class"],"noteIcon":""}
 ---
 
 
@@ -213,12 +213,12 @@ At 20th level, you become an unparalleled hunter of your enemies. Once on each o
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Poison and Disease\|Detect Poison and Disease]] | 1           | Divination    | action                                                                                 | self     |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Hunters Mark\|Hunters Mark]]                           | 1           | Divination    | bonus action                                                                           | 90 feet  |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Speak with Animals\|Speak with Animals]]               | 1           | Divination    | action                                                                                 | self     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Entangle\|Entangle]]                                   | 1           | Conjuration   | action                                                                                 | 90 feet  |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Ensnaring Strike\|Ensnaring Strike]]                   | 1           | Conjuration   | bonus action                                                                           | self     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Entangle\|Entangle]]                                   | 1           | Conjuration   | action                                                                                 | 90 feet  |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Fog Cloud\|Fog Cloud]]                                 | 1           | Conjuration   | action                                                                                 | 120 feet |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Hail of Thorns\|Hail of Thorns]]                       | 1           | Conjuration   | bonus action                                                                           | self     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Absorb Elements\|Absorb Elements]]                     | 1           | Abjuration    | reaction (which you take when you take acid, cold, fire, lightning, or thunder damage) | self     |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Alarm\|Alarm]]                                         | 1           | Abjuration    | 1 minute                                                                               | 30 feet  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Absorb Elements\|Absorb Elements]]                     | 1           | Abjuration    | reaction (which you take when you take acid, cold, fire, lightning, or thunder damage) | self     |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Snare\|Snare]]                                         | 1           | Abjuration    | 1 minute                                                                               | touch    |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Beast Sense\|Beast Sense]]                             | 2           | Divination    | action                                                                                 | touch    |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Summon Beast\|Summon Beast]]                           | 2           | Conjuration   | action                                                                                 | 90 feet  |

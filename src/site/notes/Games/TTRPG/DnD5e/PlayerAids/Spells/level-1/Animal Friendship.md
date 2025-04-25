@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/animal-friendship/","tags":["TTRPG/DND/5e","verbal","somatic","material","control","social"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/animal-friendship/","tags":["TTRPG/DND/5e","verbal","somatic","material","control","social","Spell"],"noteIcon":""}
 ---
 
 

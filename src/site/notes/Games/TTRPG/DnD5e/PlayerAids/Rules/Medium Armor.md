@@ -17,8 +17,8 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 
 | File                                                                 | Item Rarity | Armor Class                                 |
 | -------------------------------------------------------------------- | ----------- | ------------------------------------------- |
-| [[Games/TTRPG/DnD5e/PlayerAids/Items/Breastplate\|Breastplate]]   | Standard    | 14 + Dex modifier (max 2)                   |
 | [[Games/TTRPG/DnD5e/PlayerAids/Items/Chain Shirt\|Chain Shirt]]   | Standard    | 13 + dex modifier (max 2)                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Items/Breastplate\|Breastplate]]   | Standard    | 14 + Dex modifier (max 2)                   |
 | [[Games/TTRPG/DnD5e/PlayerAids/Items/Half Plate\|Half Plate]]     | Standard    | 15 +  dex modifier (max 2)                  |
 | [[Games/TTRPG/DnD5e/PlayerAids/Items/Hide Armor\|Hide Armor]]     | Standard    | 12 + dex modifier (max 2)                   |
 | [[Games/TTRPG/DnD5e/PlayerAids/Items/Scale Mail\|Scale Mail]]     | Standard    | <ul><li>14 + Dex modifier (max 2)</li></ul> |

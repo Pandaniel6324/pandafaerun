@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/create-or-destroy-water/","tags":["TTRPG/DND/5e","creation","verbal","somatic","material"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/create-or-destroy-water/","tags":["TTRPG/DND/5e","creation","verbal","somatic","material","Spell"],"noteIcon":""}
 ---
 
 

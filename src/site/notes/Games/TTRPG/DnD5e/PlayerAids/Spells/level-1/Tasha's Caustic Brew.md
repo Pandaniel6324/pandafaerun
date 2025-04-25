@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/tasha-s-caustic-brew/","tags":["TTRPG/DND/5e","concentration","verbal","somatic","material"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/tasha-s-caustic-brew/","tags":["TTRPG/DND/5e","concentration","verbal","somatic","material","Spell"],"noteIcon":""}
 ---
 
 

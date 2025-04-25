@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/construct-spirit/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/construct-spirit/","tags":["TTRPG/DND/5e","StatBlock"],"noteIcon":""}
 ---
 
 
@@ -13,7 +13,7 @@
 
 **Damage Resistances:** Poison
 **Condition Immunities:** charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned
-**Senses:** [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] 60 ft., passive Perception 10
+**Senses:** [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] 60 ft., passive Perception 10
 **Languages**   understands the languages you speak
 **Challenge** -
 **Proficiency Bonus:** equals your bonus

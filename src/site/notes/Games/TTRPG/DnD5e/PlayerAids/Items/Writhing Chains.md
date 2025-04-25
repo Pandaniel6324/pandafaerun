@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/writhing-chains/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/writhing-chains/","tags":["TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 (Counts as a Monk Weapon)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/ranger-archetype-horizon-walker/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/ranger-archetype-horizon-walker/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
 ---
 
 

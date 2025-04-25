@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/bugbear/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/bugbear/","tags":["TTRPG/DND/5e","StatBlock"],"noteIcon":""}
 ---
 
 
@@ -12,7 +12,7 @@
 | 15(+2)    | 14(+2)    | 8(-1)     | 11(+0) | 9(-9) | 13(+1) |
 
 **Skills** Stealth +6, Survival +2
-**Senses** [[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] 60ft, Passive Perception 10
+**Senses** [[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] 60ft, Passive Perception 10
 **Languages**   [[Common\|Common]], [[Goblin (Language)\|Goblin (Language)]]
 **Challenge** 1 (200xp)
 

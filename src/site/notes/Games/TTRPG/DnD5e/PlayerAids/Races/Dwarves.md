@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/dwarves/","tags":["TTRPG/DND/5e"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/dwarves/","tags":["TTRPG/DND/5e","Races"],"noteIcon":""}
 ---
 
 
@@ -15,7 +15,7 @@
 
 - **Speed.** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 
-[[Games/TTRPG/DnD5e/PlayerAids/Rules/Darkvision\|Darkvision]] Accustomed to life underground, you have superior vision in dark and dim conditions. 
+[[Games/TTRPG/DnD5e/DMTools/Traits/Darkvision\|Darkvision]] Accustomed to life underground, you have superior vision in dark and dim conditions. 
 
 - **Dwarven Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.
 

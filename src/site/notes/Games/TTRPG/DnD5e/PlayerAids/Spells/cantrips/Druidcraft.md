@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/druidcraft/","tags":["TTRPG/DND/5e","verbal","somatic","control"]}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/druidcraft/","tags":["TTRPG/DND/5e","verbal","somatic","control","Spell"],"noteIcon":""}
 ---
 
 
