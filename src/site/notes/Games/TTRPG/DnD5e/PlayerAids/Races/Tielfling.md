@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/tielfling/","tags":["TTRPG/DND/5e","Races"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/tielfling/","tags":["TTRPG/DND/5e","Races","Planes-Touched"],"noteIcon":""}
 ---
 
 

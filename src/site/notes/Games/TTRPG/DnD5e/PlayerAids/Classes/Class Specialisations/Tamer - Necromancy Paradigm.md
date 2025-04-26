@@ -58,7 +58,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 5th         | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Blindness Deafness\|Blindness Deafness]], [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Ray of Enfeeblement\|ray of enfeeblement]] |
 | 9th         | [[influenza\|influenza]]¹, [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Vampiric Touch\|vampiric touch]]           |
 | 13th        | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Confusion\|confusion]], [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Death Ward\|death ward]]                |
-| 17th        | [[bone cage\|bone cage]]¹, [[endure\|endure]]¹                  |
+| 17th        | [[bone cage\|bone cage]]¹, [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Endure\|Endure]]¹                  |
 
 ¹ *See Appendix B*
 

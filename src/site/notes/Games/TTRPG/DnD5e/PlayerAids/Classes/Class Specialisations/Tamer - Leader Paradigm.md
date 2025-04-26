@@ -34,10 +34,10 @@ You learn additional spells when you reach certain levels in this class, as show
 | Tamer Level | Spells                                      |
 |-------------|---------------------------------------------|
 | 3rd         | [[divine favor\|divine favor]], [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Protection from Evil and Good\|protection from evil and good]] |
-| 5th         | [[inequality\|inequality]]¹, [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Warding Bond\|warding bond]]              |
+| 5th         | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Inequality\|Inequality]]¹, [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Warding Bond\|warding bond]]              |
 | 9th         | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Beacon of Hope\|beacon of hope]], [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Haste\|haste]]                   |
 | 13th        | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Death Ward\|death ward]], [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Freedom of Movement\|freedom of movement]]         |
-| 17th        | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Dispel Evil and Good\|dispel evil and good]], [[endure\|endure]]¹           |
+| 17th        | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Dispel Evil and Good\|dispel evil and good]], [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Endure\|Endure]]¹           |
 
 ¹ *See Appendix B*
 

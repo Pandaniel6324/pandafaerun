@@ -24,11 +24,11 @@ When you choose this domain at 1st level, you gain proficiency with martial weap
 
 At 1st level, you learn one necromancy cantrip of your choice from [any spell list](http://dnd5e.wikidot.com/spells). When you cast a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.
 #### Necromancy Cantrips
-| File                                                                                 | Spell Level | School     | Casting Time | Range    |
-| ------------------------------------------------------------------------------------ | ----------- | ---------- | ------------ | -------- |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Chill Touch\|Chill Touch]]         | 0           | Necromancy | action       | 120 feet |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Spare the Dying\|Spare the Dying]] | 0           | Necromancy | action       | touch    |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Toll the Dead\|Toll the Dead]]     | 0           | Necromancy | action       | 60 feet  |
+| File                                                                                 | Spell Level | School     | Casting Time | Range                   |
+| ------------------------------------------------------------------------------------ | ----------- | ---------- | ------------ | ----------------------- |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Chill Touch\|Chill Touch]]         | 0           | Necromancy | action       | 120 feet                |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Spare the Dying\|Spare the Dying]] | 0           | Necromancy | action       | <ul><li>touch</li></ul> |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Toll the Dead\|Toll the Dead]]     | 0           | Necromancy | action       | 60 feet                 |
 
 { .block-language-dataview}
 

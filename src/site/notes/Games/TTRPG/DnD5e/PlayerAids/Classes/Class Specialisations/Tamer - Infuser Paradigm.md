@@ -32,11 +32,11 @@ You learn additional spells when you reach certain levels in this class, as show
 
 | Tamer Level | Spells                              |
 |-------------|-------------------------------------|
-| 3rd         | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Hellish Rebuke\|hellish rebuke]], [[peppermint plate\|peppermint plate]]¹ |
-| 5th         | [[eelskin\|eelskin]]¹, [[riptide\|riptide]]¹               |
+| 3rd         | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Hellish Rebuke\|hellish rebuke]], [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Peppermint Plate\|Peppermint Plate]]¹ |
+| 5th         | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Eelskin\|Eelskin]]¹, [[riptide\|riptide]]¹               |
 | 9th         | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Protection from Energy\|protection from energy]], [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Wind Wall\|wind wall]] |
 | 13th        | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Control Water\|control water]], [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Fire Shield\|fire shield]]      |
-| 17th        | [[feverskin\|feverskin]]¹, [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Wall of Stone\|wall of stone]]        |
+| 17th        | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Feverskin\|Feverskin]]¹, [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Wall of Stone\|wall of stone]]        |
 
 ¹ *See Appendix B*
 
