@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/kobold/","tags":["ttrpg/dnd/5e","statblock","Monster"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/kobold/","tags":["ttrpg/dnd/5e","statblock","monster"],"noteIcon":""}
 ---
 
 
@@ -29,5 +29,7 @@ _**Sling.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. 
 # Other Variants 
 - [[Games/TTRPG/DnD5e/PlayerAids/Monsters/Winged Kobold\|Winged Kobold]]
 - [[Games/TTRPG/DnD5e/PlayerAids/Monsters/Kobold Dragonshield\|Kobold Dragonshield]]
+- [[Games/TTRPG/DnD5e/PlayerAids/Monsters/Kobold Scale Sorcerer\|Kobold Scale Sorcerer]]
+- [[Games/TTRPG/DnD5e/PlayerAids/Monsters/Kobold Inventor\|Kobold Inventor]]
 # Description**
 Kobolds are craven reptilian humanoids that commonly infest dungeons. They make up for their physical ineptitude with a cleverness for trap making. They like fire wine, according to [[Games/Video Games/Baldur's Gate 3\|Baldur's Gate 3]]

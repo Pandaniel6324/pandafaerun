@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/bugbear/","tags":["ttrpg/dnd/5e","statblock","Monster"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/bugbear/","tags":["ttrpg/dnd/5e","statblock","monster"],"noteIcon":""}
 ---
 
 
