@@ -12,3 +12,5 @@
 **Complete Spell List**
 [[Games/TTRPG/DnD5e/5e Spell List\|5e Spell List]]
 
+**Sourcebooks**
+[[Games/TTRPG/DnD5e/PandaWikia/Sourcebook page\|Sourcebooks]]
