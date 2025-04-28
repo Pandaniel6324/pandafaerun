@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/rituals-spells/","tags":["TTRPG/DND/5e","Rules"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/rituals-spells/","tags":["ttrpg/dnd/5e","Rules"],"noteIcon":""}
 ---
 
 
@@ -7,6 +7,7 @@
 
 | File                                                                                                    | Spell Level | School        | Casting Time | Range                     |
 | ------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------ | ------------------------- |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Flipperform\|Flipperform]]                             | 1           | Transmutation | action       | <ul><li>30 feet</li></ul> |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Purify Food and Drink\|Purify Food and Drink]]         | 1           | Transmutation | action       | <ul><li>10 feet</li></ul> |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Wild Cunning (UA)\|Wild Cunning (UA)]]                 | 1           | Transmutation | action       | 120 feet                  |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Illusory Script\|Illusory Script]]                     | 1           | Illusion      | 1 minute     | touch                     |
@@ -25,8 +26,8 @@
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Animal Messenger\|Animal Messenger]]                   | 2           | Enchantment   | action       | 30 feet                   |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Beast Sense\|Beast Sense]]                             | 2           | Divination    | action       | touch                     |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Locate Animals or Plants\|Locate Animals or Plants]]   | 2           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Water Breathing\|Water Breathing]]                     | 3           | Transmutation | action       | 30 feet                   |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Water Walk\|Water Walk]]                               | 3           | Transmutation | action       | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Water Breathing\|Water Breathing]]                     | 3           | Transmutation | action       | 30 feet                   |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Rary_s Telepathic Bond\|Rary_s Telepathic Bond]]       | 5           | Divination    | action       | 30 feet                   |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Skywrite\|Skywrite]]                                   | 2           | Transmutation | action       | unlimited                 |
 | [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Gentle Repose\|Gentle Repose]]                         | 2           | Necromancy    | action       | touch                     |

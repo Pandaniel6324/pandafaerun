@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/warlock-subclass-hexblade/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/warlock-subclass-hexblade/","tags":["sub-class","ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 

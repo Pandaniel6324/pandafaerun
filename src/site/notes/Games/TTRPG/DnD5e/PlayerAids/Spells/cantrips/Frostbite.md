@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/frostbite/","tags":["TTRPG/DND/5e","verbal","somatic","damage","debuff","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/frostbite/","tags":["ttrpg/dnd/5e","verbal","somatic","damage","debuff","spell"],"noteIcon":""}
 ---
 
 

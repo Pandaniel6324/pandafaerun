@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/chain-shirt/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/chain-shirt/","tags":["ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
  AC: 13 + dex modifier (max 2)

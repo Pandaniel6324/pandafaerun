@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/hypnotic-pattern/","tags":["TTRPG/DND/5e","somatic","material","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/hypnotic-pattern/","tags":["ttrpg/dnd/5e","somatic","material","concentration","spell"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/underwater-combat/","tags":["TTRPG/DND/5e","Rules"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/underwater-combat/","tags":["ttrpg/dnd/5e","Rules"],"noteIcon":""}
 ---
 
 When adventurers pursue [[Shauhagin\|Shauhagin]] back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/orc/","tags":["TTRPG/DND/5e","StatBlock"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/orc/","tags":["ttrpg/dnd/5e","statblock","Monster"],"noteIcon":""}
 ---
 
 

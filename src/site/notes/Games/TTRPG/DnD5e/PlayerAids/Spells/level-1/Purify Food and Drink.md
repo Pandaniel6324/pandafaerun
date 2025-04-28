@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/purify-food-and-drink/","tags":["TTRPG/DND/5e","verbal","somatic","ritual","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/purify-food-and-drink/","tags":["ttrpg/dnd/5e","verbal","somatic","ritual","spell"],"noteIcon":""}
 ---
 
 

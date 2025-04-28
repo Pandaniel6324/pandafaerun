@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/shillelagh/","tags":["TTRPG/DND/5e","verbal","somatic","material","damage","buff","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/shillelagh/","tags":["ttrpg/dnd/5e","verbal","somatic","material","damage","buff","spell"],"noteIcon":""}
 ---
 
 

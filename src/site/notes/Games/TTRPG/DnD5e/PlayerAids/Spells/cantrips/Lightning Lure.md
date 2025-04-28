@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/lightning-lure/","tags":["TTRPG/DND/5e","verbal","damage","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/lightning-lure/","tags":["ttrpg/dnd/5e","verbal","damage","spell"],"noteIcon":""}
 ---
 
 

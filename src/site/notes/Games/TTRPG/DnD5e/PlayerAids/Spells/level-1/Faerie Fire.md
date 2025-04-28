@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/faerie-fire/","tags":["TTRPG/DND/5e","verbal","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/faerie-fire/","tags":["ttrpg/dnd/5e","verbal","concentration","spell"],"noteIcon":""}
 ---
 
 

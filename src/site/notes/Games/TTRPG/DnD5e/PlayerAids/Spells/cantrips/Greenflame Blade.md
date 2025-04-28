@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/greenflame-blade/","tags":["TTRPG/DND/5e","verbal","material","damage","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/greenflame-blade/","tags":["ttrpg/dnd/5e","verbal","material","damage","spell"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/warlock-subclass-undead/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/warlock-subclass-undead/","tags":["Specialism"],"noteIcon":""}
 ---
 
 
@@ -62,4 +62,4 @@ While projecting your spirit, you gain the following benefits:
 
 - While you are using your Form of Dread, once during each of your turns when you deal necrotic damage to a creature, you regain hit points equal to half the amount of necrotic damage dealt.
 
-Once you use this feature, you can’t do so again until you finish a long rest.
+Once you use this feature, you can’t do so again until you fi

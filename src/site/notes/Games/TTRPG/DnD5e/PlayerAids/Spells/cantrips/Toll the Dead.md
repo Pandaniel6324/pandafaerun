@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/toll-the-dead/","tags":["TTRPG/DND/5e","verbal","somatic","damage","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/toll-the-dead/","tags":["ttrpg/dnd/5e","verbal","somatic","damage","spell"],"noteIcon":""}
 ---
 
 

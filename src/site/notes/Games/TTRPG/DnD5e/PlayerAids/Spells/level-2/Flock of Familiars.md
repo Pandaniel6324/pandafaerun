@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/flock-of-familiars/","tags":["TTRPG/DND/5e","verbal","somatic","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/flock-of-familiars/","tags":["ttrpg/dnd/5e","verbal","somatic","concentration","spell"],"noteIcon":""}
 ---
 
 

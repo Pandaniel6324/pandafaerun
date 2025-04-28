@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/blade-ward/","tags":["TTRPG/DND/5e","verbal","somatic","buff","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/blade-ward/","tags":["ttrpg/dnd/5e","verbal","somatic","buff","spell"],"noteIcon":""}
 ---
 
 

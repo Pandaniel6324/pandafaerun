@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/shield-of-faith/","tags":["TTRPG/DND/5e","verbal","somatic","material","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/shield-of-faith/","tags":["ttrpg/dnd/5e","verbal","somatic","material","concentration","spell"],"noteIcon":""}
 ---
 
 

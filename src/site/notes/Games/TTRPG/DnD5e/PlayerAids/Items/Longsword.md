@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/longsword/","tags":["TTRPG/DND/5e","damage","combat"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/longsword/","tags":["ttrpg/dnd/5e","damage","combat"],"noteIcon":""}
 ---
 
 

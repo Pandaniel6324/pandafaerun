@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/cleric/","tags":["TTRPG/DND/5e","Class"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/cleric/","tags":["ttrpg/dnd/5e","class"],"noteIcon":""}
 ---
 
 
@@ -171,130 +171,134 @@ Imploring your deity's aid requires you to use your action. Describe the assista
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
 ## Cleric Spell List
-| File                                                                                                            | Spell Level | School        | Casting Time | Range                     |
-| --------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------ | ------------------------- |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Mending\|Mending]]                                            | 0           | Transmutation | 1 minute     | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Thaumaturgy\|Thaumaturgy]]                                    | 0           | Transmutation | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Spare the Dying\|Spare the Dying]]                            | 0           | Necromancy    | action       | <ul><li>touch</li></ul>   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Toll the Dead\|Toll the Dead]]                                | 0           | Necromancy    | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Light\|Light]]                                                | 0           | Evocation     | action       | <ul><li>touch</li></ul>   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Sacred Flame\|Sacred Flame]]                                  | 0           | Evocation     | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Word of Radiance\|Word of Radiance]]                          | 0           | Evocation     | action       | 5 feet                    |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Guidance\|Guidance]]                                          | 0           | Divination    | action       | <ul><li>touch</li></ul>   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Resistance\|Resistance]]                                      | 0           | Abjuration    | action       | <ul><li>touch</li></ul>   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Create or Destroy Water\|Create or Destroy Water]]             | 1           | Transmutation | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Purify Food and Drink\|Purify Food and Drink]]                 | 1           | Transmutation | action       | <ul><li>10 feet</li></ul> |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Inflict Wounds\|Inflict Wounds]]                               | 1           | Necromancy    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Cure Wounds\|Cure Wounds]]                                     | 1           | Evocation     | action       | <ul><li>touch</li></ul>   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Guiding Bolt\|Guiding Bolt]]                                   | 1           | Evocation     | action       | 120 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Healing Word\|Healing Word]]                                   | 1           | Evocation     | bonus action | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Bane\|Bane]]                                                   | 1           | Enchantment   | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Bless\|Bless]]                                                 | 1           | Enchantment   | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Command\|Command]]                                             | 1           | Enchantment   | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Evil and Good\|Detect Evil and Good]]                   | 1           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Magic\|Detect Magic]]                                   | 1           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Poison and Disease\|Detect Poison and Disease]]         | 1           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Guiding Hand UA\|Guiding Hand UA]]                             | 1           | Divination    | 1 minute     | 5 feet                    |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Ceremony\|Ceremony]]                                           | 1           | Abjuration    | 1 hour       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Protection from Evil and Good\|Protection from Evil and Good]] | 1           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Sanctuary\|Sanctuary]]                                         | 1           | Abjuration    | bonus action | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Shield of Faith\|Shield of Faith]]                             | 1           | Abjuration    | bonus action | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Enhance Ability\|Enhance Ability]]                             | 2           | Transmutation | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Silence\|Silence]]                                             | 2           | Illusion      | action       | 120 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Calm Emotions\|Calm Emotions]]                                 | 2           | Enchantment   | \-           | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Locate Object\|Locate Object]]                                 | 2           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Aid\|Aid]]                                                     | 2           | Abjuration    | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Lesser Restoration\|Lesser Restoration]]                       | 2           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Protection from Poison\|Protection from Poison]]               | 2           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Warding Bond\|Warding Bond]]                                   | 2           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Water Walk\|Water Walk]]                                       | 3           | Transmutation | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Spirit Shroud\|Spirit Shroud]]                                 | 3           | Necromancy    | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Daylight\|Daylight]]                                           | 3           | Evocation     | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Clairvoyance\|Clairvoyance]]                                   | 3           | Divination    | 10 minutes   | 1 mile                    |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Tongues\|Tongues]]                                             | 3           | Divination    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Create Food and Water\|Create Food and Water]]                 | 3           | Conjuration   | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Spirit Guardians\|Spirit Guardians]]                           | 3           | Conjuration   | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Dispel Magic\|Dispel Magic]]                                   | 3           | Abjuration    | action       | 120 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Protection from Energy\|Protection from Energy]]               | 3           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Remove Curse\|Remove Curse]]                                   | 3           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Control Water\|Control Water]]                                 | 4           | Transmutation | action       | 300 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Locate Creature\|Locate Creature]]                             | 4           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Death Ward\|Death Ward]]                                       | 4           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Freedom of Movement\|Freedom of Movement]]                     | 4           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Geas\|Geas]]                                                   | 5           | Enchantment   | 1 minute     | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Legend Lore\|Legend Lore]]                                     | 5           | Divination    | 10 minutes   | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Scrying\|Scrying]]                                             | 5           | Divination    | 10 minutes   | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Dispel Evil and Good\|Dispel Evil and Good]]                   | 5           | Abjuration    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Greater Restoration\|Greater Restoration]]                     | 5           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Blindness Deafness\|Blindness Deafness]]                       | 2           | Necromancy    | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Gentle Repose\|Gentle Repose]]                                 | 2           | Necromancy    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Continual Flame\|Continual Flame]]                             | 2           | Evocation     | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Prayer of Healing\|Prayer of Healing]]                         | 2           | Evocation     | 10 minutes   | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Spiritual Weapon\|Spiritual Weapon]]                           | 2           | Evocation     | bonus action | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Hold Person\|Hold Person]]                                     | 2           | Enchantment   | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Zone of Truth\|Zone of Truth]]                                 | 2           | Enchantment   | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Augury\|Augury]]                                               | 2           | Divination    | 1 minute     | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Find Traps\|Find Traps]]                                       | 2           | Divination    | action       | 120 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Meld into Stone\|Meld into Stone]]                             | 3           | Transmutation | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Animate Dead\|Animate Dead]]                                   | 3           | Necromancy    | 1 minute     | 10 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Bestow Curse\|Bestow Curse]]                                   | 3           | Necromancy    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Feign Death\|Feign Death]]                                     | 3           | Necromancy    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Life Transference\|Life Transference]]                         | 3           | Necromancy    | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Revivify\|Revivify]]                                           | 3           | Necromancy    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Speak with Dead\|Speak with Dead]]                             | 3           | Necromancy    | action       | 10 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Aura of Vitality\|Aura of Vitality]]                           | 3           | Evocation     | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Mass Healing Word\|Mass Healing Word]]                         | 3           | Evocation     | bonus action | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Sending\|Sending]]                                             | 3           | Evocation     | action       | unlimited                 |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Fast Friends\|Fast Friends]]                                   | 3           | Enchantment   | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Incite Greed\|Incite Greed]]                                   | 3           | Enchantment   | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Motivational Speech\|Motivational Speech]]                     | 3           | Enchantment   | 1 minute     | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Beacon of Hope\|Beacon of Hope]]                               | 3           | Abjuration    | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Glyph of Warding\|Glyph of Warding]]                           | 3           | Abjuration    | 1 hour       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Magic Circle\|Magic Circle]]                                   | 3           | Abjuration    | 1 minute     | 10 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Stone Shape\|Stone Shape]]                                     | 4           | Transmutation | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Divination\|Divination]]                                       | 4           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Guardian of Faith\|Guardian of Faith]]                         | 4           | Conjuration   | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Aura of Purity\|Aura of Purity]]                               | 4           | Abjuration    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Aura of Life\|Aura of Life]]                                   | 4           | Abjuration    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Banishment\|Banishment]]                                       | 4           | Abjuration    | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Contagion\|Contagion]]                                         | 5           | Necromancy    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Raise Dead\|Raise Dead]]                                       | 5           | Necromancy    | 1 hour       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Dawn\|Dawn]]                                                   | 5           | Evocation     | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Flame Strike\|Flame Strike]]                                   | 5           | Evocation     | \-           | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Hallow\|Hallow]]                                               | 5           | Evocation     | 1 day        | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Holy Weapon\|Holy Weapon]]                                     | 5           | Evocation     | bonus action | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Mass Cure Wounds\|Mass Cure Wounds]]                           | 5           | Evocation     | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Commune\|Commune]]                                             | 5           | Divination    | 1 minute     | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Insect Plague\|Insect Plague]]                                 | 5           | Conjuration   | action       | 300 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Planar Binding\|Planar Binding]]                               | 5           | Abjuration    | 1 hour       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Create Undead\|Create Undead]]                                 | 6           | Necromancy    | 1 minute     | 10 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Harm\|Harm]]                                                   | 6           | Necromancy    | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Blade Barrier\|Blade Barrier]]                                 | 6           | Evocation     | action       | 90 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Heal\|Heal]]                                                   | 6           | Evocation     | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Sunbeam\|Sunbeam]]                                             | 6           | Evocation     | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Find the Path\|Find the Path]]                                 | 6           | Divination    | 1 minute     | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/True Seeing\|True Seeing]]                                     | 6           | Divination    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Heroes Feast\|Heroes Feast]]                                   | 6           | Conjuration   | 10 minutes   | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Planar Ally\|Planar Ally]]                                     | 6           | Conjuration   | 10 minutes   | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Word of Recall\|Word of Recall]]                               | 6           | Conjuration   | action       | 5 feet                    |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Forbiddance\|Forbiddance]]                                     | 6           | Abjuration    | 10 minutes   | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Regenerate\|Regenerate]]                                       | 7           | Transmutation | 1 minute     | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Resurrection\|Resurrection]]                                   | 7           | Necromancy    | 1 hour       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Divine Word\|Divine Word]]                                     | 7           | Evocation     | bonus action | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Fire Storm\|Fire Storm]]                                       | 7           | Evocation     | action       | 150 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Conjure Celestial\|Conjure Celestial]]                         | 7           | Conjuration   | 1 minute     | 90 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Plane Shift\|Plane Shift]]                                     | 7           | Conjuration   | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Temple of the Gods\|Temple of the Gods]]                       | 7           | Conjuration   | 1 hour       | 120 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Symbol\|Symbol]]                                               | 7           | Abjuration    | 1 minute     | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Control Weather\|Control Weather]]                             | 8           | Transmutation | 10 minutes   | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Earthquake\|Earthquake]]                                       | 8           | Evocation     | action       | 500 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Sunburst\|Sunburst]]                                           | 8           | Evocation     | action       | 150 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Antimagic Field\|Antimagic Field]]                             | 8           | Abjuration    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Holy Aura\|Holy Aura]]                                         | 8           | Abjuration    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/Astral Projection\|Astral Projection]]                         | 9           | Necromancy    | 1 hour       | 10 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/True Resurrection\|True Resurrection]]                         | 9           | Necromancy    | 1 hour       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/Mass Heal\|Mass Heal]]                                         | 9           | Evocation     | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/Power Word Heal\|Power Word Heal]]                             | 9           | Evocation     | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/Gate\|Gate]]                                                   | 9           | Conjuration   | action       | 60 feet                   |
+| File                                                                                                            | Spell Level | School        | Casting Time             | Range                     |
+| --------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------------------ | ------------------------- |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Mending\|Mending]]                                            | 0           | Transmutation | 1 minute                 | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Thaumaturgy\|Thaumaturgy]]                                    | 0           | Transmutation | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Spare the Dying\|Spare the Dying]]                            | 0           | Necromancy    | action                   | <ul><li>touch</li></ul>   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Toll the Dead\|Toll the Dead]]                                | 0           | Necromancy    | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Light\|Light]]                                                | 0           | Evocation     | action                   | <ul><li>touch</li></ul>   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Sacred Flame\|Sacred Flame]]                                  | 0           | Evocation     | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Word of Radiance\|Word of Radiance]]                          | 0           | Evocation     | action                   | 5 feet                    |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Guidance\|Guidance]]                                          | 0           | Divination    | action                   | <ul><li>touch</li></ul>   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Can't Trip\|Can't Trip]]                                      | 0           | Abjuration    | action                   | <ul><li>30 feet</li></ul> |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/cantrips/Resistance\|Resistance]]                                      | 0           | Abjuration    | action                   | <ul><li>touch</li></ul>   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Create or Destroy Water\|Create or Destroy Water]]             | 1           | Transmutation | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Purify Food and Drink\|Purify Food and Drink]]                 | 1           | Transmutation | action                   | <ul><li>10 feet</li></ul> |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Inflict Wounds\|Inflict Wounds]]                               | 1           | Necromancy    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Cure Wounds\|Cure Wounds]]                                     | 1           | Evocation     | action                   | <ul><li>touch</li></ul>   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Guiding Bolt\|Guiding Bolt]]                                   | 1           | Evocation     | action                   | 120 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Healing Word\|Healing Word]]                                   | 1           | Evocation     | bonus action             | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Bane\|Bane]]                                                   | 1           | Enchantment   | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Bless\|Bless]]                                                 | 1           | Enchantment   | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Command\|Command]]                                             | 1           | Enchantment   | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Evil and Good\|Detect Evil and Good]]                   | 1           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Magic\|Detect Magic]]                                   | 1           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Poison and Disease\|Detect Poison and Disease]]         | 1           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Guiding Hand UA\|Guiding Hand UA]]                             | 1           | Divination    | 1 minute                 | 5 feet                    |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Ceremony\|Ceremony]]                                           | 1           | Abjuration    | 1 hour                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Peppermint Plate\|Peppermint Plate]]                           | 1           | Abjuration    | action                   | <ul><li>self</li></ul>    |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Protection from Evil and Good\|Protection from Evil and Good]] | 1           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Sanctuary\|Sanctuary]]                                         | 1           | Abjuration    | bonus action             | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Shield of Faith\|Shield of Faith]]                             | 1           | Abjuration    | bonus action             | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Enhance Ability\|Enhance Ability]]                             | 2           | Transmutation | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Silence\|Silence]]                                             | 2           | Illusion      | action                   | 120 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Calm Emotions\|Calm Emotions]]                                 | 2           | Enchantment   | \-                       | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Locate Object\|Locate Object]]                                 | 2           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Aid\|Aid]]                                                     | 2           | Abjuration    | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Lesser Restoration\|Lesser Restoration]]                       | 2           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Preserve\|Preserve]]                                           | 2           | Abjuration    | <ul><li>action</li></ul> | <ul><li>60 feet</li></ul> |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Protection from Poison\|Protection from Poison]]               | 2           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Protection\|Protection]]                                       | 2           | Abjuration    | <ul><li>action</li></ul> | <ul><li>30 feet</li></ul> |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Warding Bond\|Warding Bond]]                                   | 2           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Water Walk\|Water Walk]]                                       | 3           | Transmutation | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Spirit Shroud\|Spirit Shroud]]                                 | 3           | Necromancy    | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Daylight\|Daylight]]                                           | 3           | Evocation     | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Clairvoyance\|Clairvoyance]]                                   | 3           | Divination    | 10 minutes               | 1 mile                    |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Tongues\|Tongues]]                                             | 3           | Divination    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Create Food and Water\|Create Food and Water]]                 | 3           | Conjuration   | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Spirit Guardians\|Spirit Guardians]]                           | 3           | Conjuration   | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Dispel Magic\|Dispel Magic]]                                   | 3           | Abjuration    | action                   | 120 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Protection from Energy\|Protection from Energy]]               | 3           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Remove Curse\|Remove Curse]]                                   | 3           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Control Water\|Control Water]]                                 | 4           | Transmutation | action                   | 300 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Locate Creature\|Locate Creature]]                             | 4           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Death Ward\|Death Ward]]                                       | 4           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Freedom of Movement\|Freedom of Movement]]                     | 4           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Geas\|Geas]]                                                   | 5           | Enchantment   | 1 minute                 | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Legend Lore\|Legend Lore]]                                     | 5           | Divination    | 10 minutes               | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Scrying\|Scrying]]                                             | 5           | Divination    | 10 minutes               | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Dispel Evil and Good\|Dispel Evil and Good]]                   | 5           | Abjuration    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Greater Restoration\|Greater Restoration]]                     | 5           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Blindness Deafness\|Blindness Deafness]]                       | 2           | Necromancy    | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Gentle Repose\|Gentle Repose]]                                 | 2           | Necromancy    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Continual Flame\|Continual Flame]]                             | 2           | Evocation     | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Prayer of Healing\|Prayer of Healing]]                         | 2           | Evocation     | 10 minutes               | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Spiritual Weapon\|Spiritual Weapon]]                           | 2           | Evocation     | bonus action             | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Hold Person\|Hold Person]]                                     | 2           | Enchantment   | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Zone of Truth\|Zone of Truth]]                                 | 2           | Enchantment   | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Augury\|Augury]]                                               | 2           | Divination    | 1 minute                 | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Find Traps\|Find Traps]]                                       | 2           | Divination    | action                   | 120 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Meld into Stone\|Meld into Stone]]                             | 3           | Transmutation | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Animate Dead\|Animate Dead]]                                   | 3           | Necromancy    | 1 minute                 | 10 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Bestow Curse\|Bestow Curse]]                                   | 3           | Necromancy    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Feign Death\|Feign Death]]                                     | 3           | Necromancy    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Life Transference\|Life Transference]]                         | 3           | Necromancy    | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Revivify\|Revivify]]                                           | 3           | Necromancy    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Speak with Dead\|Speak with Dead]]                             | 3           | Necromancy    | action                   | 10 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Aura of Vitality\|Aura of Vitality]]                           | 3           | Evocation     | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Mass Healing Word\|Mass Healing Word]]                         | 3           | Evocation     | bonus action             | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Sending\|Sending]]                                             | 3           | Evocation     | action                   | unlimited                 |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Fast Friends\|Fast Friends]]                                   | 3           | Enchantment   | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Incite Greed\|Incite Greed]]                                   | 3           | Enchantment   | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Motivational Speech\|Motivational Speech]]                     | 3           | Enchantment   | 1 minute                 | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Beacon of Hope\|Beacon of Hope]]                               | 3           | Abjuration    | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Glyph of Warding\|Glyph of Warding]]                           | 3           | Abjuration    | 1 hour                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Magic Circle\|Magic Circle]]                                   | 3           | Abjuration    | 1 minute                 | 10 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Stone Shape\|Stone Shape]]                                     | 4           | Transmutation | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Divination\|Divination]]                                       | 4           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Guardian of Faith\|Guardian of Faith]]                         | 4           | Conjuration   | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Aura of Life\|Aura of Life]]                                   | 4           | Abjuration    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Aura of Purity\|Aura of Purity]]                               | 4           | Abjuration    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Banishment\|Banishment]]                                       | 4           | Abjuration    | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Contagion\|Contagion]]                                         | 5           | Necromancy    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Raise Dead\|Raise Dead]]                                       | 5           | Necromancy    | 1 hour                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Dawn\|Dawn]]                                                   | 5           | Evocation     | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Flame Strike\|Flame Strike]]                                   | 5           | Evocation     | \-                       | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Hallow\|Hallow]]                                               | 5           | Evocation     | 1 day                    | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Holy Weapon\|Holy Weapon]]                                     | 5           | Evocation     | bonus action             | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Mass Cure Wounds\|Mass Cure Wounds]]                           | 5           | Evocation     | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Commune\|Commune]]                                             | 5           | Divination    | 1 minute                 | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Insect Plague\|Insect Plague]]                                 | 5           | Conjuration   | action                   | 300 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Planar Binding\|Planar Binding]]                               | 5           | Abjuration    | 1 hour                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Create Undead\|Create Undead]]                                 | 6           | Necromancy    | 1 minute                 | 10 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Harm\|Harm]]                                                   | 6           | Necromancy    | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Blade Barrier\|Blade Barrier]]                                 | 6           | Evocation     | action                   | 90 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Heal\|Heal]]                                                   | 6           | Evocation     | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Sunbeam\|Sunbeam]]                                             | 6           | Evocation     | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Find the Path\|Find the Path]]                                 | 6           | Divination    | 1 minute                 | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/True Seeing\|True Seeing]]                                     | 6           | Divination    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Heroes Feast\|Heroes Feast]]                                   | 6           | Conjuration   | 10 minutes               | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Planar Ally\|Planar Ally]]                                     | 6           | Conjuration   | 10 minutes               | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Word of Recall\|Word of Recall]]                               | 6           | Conjuration   | action                   | 5 feet                    |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-6/Forbiddance\|Forbiddance]]                                     | 6           | Abjuration    | 10 minutes               | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Regenerate\|Regenerate]]                                       | 7           | Transmutation | 1 minute                 | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Resurrection\|Resurrection]]                                   | 7           | Necromancy    | 1 hour                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Divine Word\|Divine Word]]                                     | 7           | Evocation     | bonus action             | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Fire Storm\|Fire Storm]]                                       | 7           | Evocation     | action                   | 150 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Conjure Celestial\|Conjure Celestial]]                         | 7           | Conjuration   | 1 minute                 | 90 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Plane Shift\|Plane Shift]]                                     | 7           | Conjuration   | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Temple of the Gods\|Temple of the Gods]]                       | 7           | Conjuration   | 1 hour                   | 120 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-7/Symbol\|Symbol]]                                               | 7           | Abjuration    | 1 minute                 | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Control Weather\|Control Weather]]                             | 8           | Transmutation | 10 minutes               | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Earthquake\|Earthquake]]                                       | 8           | Evocation     | action                   | 500 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Sunburst\|Sunburst]]                                           | 8           | Evocation     | action                   | 150 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Antimagic Field\|Antimagic Field]]                             | 8           | Abjuration    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-8/Holy Aura\|Holy Aura]]                                         | 8           | Abjuration    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/Astral Projection\|Astral Projection]]                         | 9           | Necromancy    | 1 hour                   | 10 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/True Resurrection\|True Resurrection]]                         | 9           | Necromancy    | 1 hour                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/Mass Heal\|Mass Heal]]                                         | 9           | Evocation     | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/Power Word Heal\|Power Word Heal]]                             | 9           | Evocation     | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-9/Gate\|Gate]]                                                   | 9           | Conjuration   | action                   | 60 feet                   |
 
 { .block-language-dataview}

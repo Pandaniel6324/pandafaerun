@@ -1,4 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/preserve/","tags":["TTRPG/DND/5e","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/preserve/","tags":["ttrpg/dnd/5e","spell","biomancy","verbal","somatic","material"],"noteIcon":""}
 ---
 
+
+With a flare of brilliant octarine light, each creature within a 10-foot-radius sphere centred on a point you can see within range must succeed on a Charisma saving throw or become soulbound for the duration, its magical essence tied to its physical (or incorporeal) form. If a creature dies while soulbound, its magic is bound to its components for 24 hours allowing harvesting to start at any time within this period (see [[Helianas-Guide-to-Monster-Hunting_2nd_Edition_v2.02.pdf#page=87|page 87]] for the rules on harvesting). Once harvesting starts on a corpse under the effect of this spell, the spell ends for that corpse Creatures possessing robust or more powerful essence (typically, those of CR 7 or higher) automatically succeed on this saving throw.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the strength of the essence possessed by creatures that allows them to au- tomatically succeed on the saving throw increases by one tier for each two slot levels above 2nd Creatures with potent or more powerful essence (typically CR 12 or higher) automatically succeed at 4th level, mythic (typically CR 18 or higher) at 6th level, and deific (typically CR 25 or higher) at 8th level

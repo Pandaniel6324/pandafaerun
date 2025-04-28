@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/acid-splash/","tags":["TTRPG/DND/5e","verbal","somatic","damage","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/acid-splash/","tags":["ttrpg/dnd/5e","verbal","somatic","damage","spell"],"noteIcon":""}
 ---
 
 ## Description

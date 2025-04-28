@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/ray-of-sickness/","tags":["TTRPG/DND/5e","verbal","somatic","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/ray-of-sickness/","tags":["ttrpg/dnd/5e","verbal","somatic","spell"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/remove-curse/","tags":["TTRPG/DND/5e","verbal","somatic","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/remove-curse/","tags":["ttrpg/dnd/5e","verbal","somatic","spell"],"noteIcon":""}
 ---
 
 

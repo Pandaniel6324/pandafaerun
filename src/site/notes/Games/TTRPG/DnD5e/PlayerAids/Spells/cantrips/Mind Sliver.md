@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/mind-sliver/","tags":["TTRPG/DND/5e","verbal","damage","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/mind-sliver/","tags":["ttrpg/dnd/5e","verbal","damage","spell"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/mental-prison/","tags":["TTRPG/DND/5e","somatic","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/mental-prison/","tags":["ttrpg/dnd/5e","somatic","concentration","spell"],"noteIcon":""}
 ---
 
 

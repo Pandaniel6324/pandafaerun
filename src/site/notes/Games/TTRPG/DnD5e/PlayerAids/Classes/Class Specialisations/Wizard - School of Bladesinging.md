@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/wizard-school-of-bladesinging/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/wizard-school-of-bladesinging/","tags":["sub-class","ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 

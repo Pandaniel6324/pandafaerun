@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/maddening-darkness/","tags":["TTRPG/DND/5e","verbal","material","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/maddening-darkness/","tags":["ttrpg/dnd/5e","verbal","material","concentration","spell"],"noteIcon":""}
 ---
 
 

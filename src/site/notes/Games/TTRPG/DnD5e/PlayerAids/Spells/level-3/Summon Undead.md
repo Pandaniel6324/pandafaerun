@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/summon-undead/","tags":["TTRPG/DND/5e","concentration","verbal","somatic","material","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/summon-undead/","tags":["ttrpg/dnd/5e","concentration","verbal","somatic","material","spell"],"noteIcon":""}
 ---
 
 

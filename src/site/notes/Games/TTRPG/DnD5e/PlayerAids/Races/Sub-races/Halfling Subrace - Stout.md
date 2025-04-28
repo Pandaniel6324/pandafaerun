@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/sub-races/halfling-subrace-stout/","tags":["TTRPG/DND/5e","Races","Sub-Races"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/sub-races/halfling-subrace-stout/","tags":["ttrpg/dnd/5e","races","Sub-Races"],"noteIcon":""}
 ---
 
 

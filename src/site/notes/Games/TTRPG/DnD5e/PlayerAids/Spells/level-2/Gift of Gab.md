@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/gift-of-gab/","tags":["TTRPG/DND/5e","verbal","somatic","royalty","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/gift-of-gab/","tags":["ttrpg/dnd/5e","verbal","somatic","royalty","spell"],"noteIcon":""}
 ---
 
 

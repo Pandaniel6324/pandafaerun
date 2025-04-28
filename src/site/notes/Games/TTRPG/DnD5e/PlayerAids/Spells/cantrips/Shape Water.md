@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/shape-water/","tags":["TTRPG/DND/5e","somatic","control","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/shape-water/","tags":["ttrpg/dnd/5e","somatic","control","spell"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/fighter/","tags":["TTRPG/DND/5e","Class"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/fighter/","tags":["ttrpg/dnd/5e","class"],"noteIcon":""}
 ---
 
 

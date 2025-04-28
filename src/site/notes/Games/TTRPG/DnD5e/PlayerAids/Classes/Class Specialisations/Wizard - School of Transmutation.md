@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/wizard-school-of-transmutation/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/wizard-school-of-transmutation/","tags":["sub-class","ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 
