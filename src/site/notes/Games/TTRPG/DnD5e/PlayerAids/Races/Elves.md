@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/elves/","tags":["TTRPG/DND/5e","Races"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/elves/","tags":["ttrpg/dnd/5e","races"],"noteIcon":""}
 ---
 
 
@@ -30,4 +30,4 @@
 | ------------------------- | ----------------- |
 | [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf Subrace- Dark Elf\|Elf Subrace- Dark Elf]] | Player's Handbook |
 | [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf-Subrace High Elf\|Elf-Subrace High Elf]] | Player's Handbook |
-| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf Subrace - Wood\|Elf Subrace - Wood]]                          |  Player's Handbook                 |
+| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Elf Subrace - Wood Elf\|Elf Subrace - Wood Elf]]                          |  Player's Handbook                 |

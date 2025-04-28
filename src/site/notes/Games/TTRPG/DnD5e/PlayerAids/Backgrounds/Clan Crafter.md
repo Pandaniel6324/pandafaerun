@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/backgrounds/clan-crafter/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/backgrounds/clan-crafter/","tags":["ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 **_The Stout Folk are well known for their artisanship and the worth of their handiworks, and you have been trained in that ancient tradition. For years you labored under a dwarf master of the craft, enduring long hours and dismissive, sour-tempered treatment in order to gain the fine skills you possess today._**

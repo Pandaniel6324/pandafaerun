@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/control-flames/","tags":["TTRPG/DND/5e","somatic","control","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/control-flames/","tags":["ttrpg/dnd/5e","somatic","control","spell"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/backgrounds/city-watch/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/backgrounds/city-watch/","tags":["ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 

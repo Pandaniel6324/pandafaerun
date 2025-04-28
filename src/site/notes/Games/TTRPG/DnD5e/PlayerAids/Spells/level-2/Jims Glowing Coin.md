@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/jims-glowing-coin/","tags":["TTRPG/DND/5e","somatic","material","royalty","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/jims-glowing-coin/","tags":["ttrpg/dnd/5e","somatic","material","royalty","spell"],"noteIcon":""}
 ---
 
 

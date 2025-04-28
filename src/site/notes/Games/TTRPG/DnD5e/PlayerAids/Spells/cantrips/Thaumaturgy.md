@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/thaumaturgy/","tags":["TTRPG/DND/5e","verbal","control","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/thaumaturgy/","tags":["ttrpg/dnd/5e","verbal","control","spell"],"noteIcon":""}
 ---
 
 

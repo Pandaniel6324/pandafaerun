@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/ceremony/","tags":["TTRPG/DND/5e","verbal","somatic","material","ritual","buff","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/ceremony/","tags":["ttrpg/dnd/5e","verbal","somatic","material","ritual","buff","spell"],"noteIcon":""}
 ---
 
 

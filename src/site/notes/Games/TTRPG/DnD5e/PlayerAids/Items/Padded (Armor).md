@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/padded-armor/","tags":["TTRPG/DND/5e","warding"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/padded-armor/","tags":["ttrpg/dnd/5e","warding"],"noteIcon":""}
 ---
 
 

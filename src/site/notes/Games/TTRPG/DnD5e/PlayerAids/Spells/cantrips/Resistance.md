@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/resistance/","tags":["TTRPG/DND/5e","verbal","somatic","material","concentration","buff","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/resistance/","tags":["ttrpg/dnd/5e","verbal","somatic","material","concentration","buff","spell"],"noteIcon":""}
 ---
 
 

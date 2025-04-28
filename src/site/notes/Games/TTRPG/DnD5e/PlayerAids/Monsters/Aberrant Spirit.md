@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/aberrant-spirit/","tags":["TTRPG/DND/5e","StatBlock"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/monsters/aberrant-spirit/","tags":["ttrpg/dnd/5e","statblock","Monster"],"noteIcon":""}
 ---
 
 

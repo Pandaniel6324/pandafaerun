@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/paladin/","tags":["TTRPG/DND/5e","Class"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/paladin/","tags":["ttrpg/dnd/5e","class"],"noteIcon":""}
 ---
 
 
@@ -196,60 +196,63 @@ Beginning at 14th level, you can use your action to end one spell on yourself or
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.
 
 ## Paladin Spell List
-| File                                                                                                            | Spell Level | School        | Casting Time | Range                     |
-| --------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------ | ------------------------- |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Purify Food and Drink\|Purify Food and Drink]]                 | 1           | Transmutation | action       | <ul><li>10 feet</li></ul> |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Cure Wounds\|Cure Wounds]]                                     | 1           | Evocation     | action       | <ul><li>touch</li></ul>   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Divine Favour\|Divine Favour]]                                 | 1           | Evocation     | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Searing Smite\|Searing Smite]]                                 | 1           | Evocation     | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Thunderous Smite\|Thunderous Smite]]                           | 1           | Evocation     | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Wrathful Smite\|Wrathful Smite]]                               | 1           | Evocation     | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Bless\|Bless]]                                                 | 1           | Enchantment   | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Command\|Command]]                                             | 1           | Enchantment   | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Compelled Duel\|Compelled Duel]]                               | 1           | Enchantment   | bonus action | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Heroism\|Heroism]]                                             | 1           | Enchantment   | action       | <ul><li>touch</li></ul>   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Evil and Good\|Detect Evil and Good]]                   | 1           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Magic\|Detect Magic]]                                   | 1           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Poison and Disease\|Detect Poison and Disease]]         | 1           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Ceremony\|Ceremony]]                                           | 1           | Abjuration    | 1 hour       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Protection from Evil and Good\|Protection from Evil and Good]] | 1           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Shield of Faith\|Shield of Faith]]                             | 1           | Abjuration    | bonus action | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Locate Object\|Locate Object]]                                 | 2           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Aid\|Aid]]                                                     | 2           | Abjuration    | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Lesser Restoration\|Lesser Restoration]]                       | 2           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Protection from Poison\|Protection from Poison]]               | 2           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Warding Bond\|Warding Bond]]                                   | 2           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Spirit Shroud\|Spirit Shroud]]                                 | 3           | Necromancy    | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Crusaders Mantle\|Crusaders Mantle]]                           | 3           | Evocation     | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Daylight\|Daylight]]                                           | 3           | Evocation     | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Create Food and Water\|Create Food and Water]]                 | 3           | Conjuration   | action       | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Dispel Magic\|Dispel Magic]]                                   | 3           | Abjuration    | action       | 120 feet                  |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Remove Curse\|Remove Curse]]                                   | 3           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Locate Creature\|Locate Creature]]                             | 4           | Divination    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Death Ward\|Death Ward]]                                       | 4           | Abjuration    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Geas\|Geas]]                                                   | 5           | Enchantment   | 1 minute     | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Dispel Evil and Good\|Dispel Evil and Good]]                   | 5           | Abjuration    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Magic Weapon\|Magic Weapon]]                                   | 2           | Transmutation | bonus action | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Gentle Repose\|Gentle Repose]]                                 | 2           | Necromancy    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Branding Smite\|Branding Smite]]                               | 2           | Evocation     | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Prayer of Healing\|Prayer of Healing]]                         | 2           | Evocation     | 10 minutes   | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Zone of Truth\|Zone of Truth]]                                 | 2           | Enchantment   | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Find Steed\|Find Steed]]                                       | 2           | Conjuration   | 10 minutes   | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Find Vehicle (UA)\|Find Vehicle (UA)]]                         | 2           | Conjuration   | 10 minutes   | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Elemental Weapon\|Elemental Weapon]]                           | 3           | Transmutation | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Revivify\|Revivify]]                                           | 3           | Necromancy    | action       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Aura of Vitality\|Aura of Vitality]]                           | 3           | Evocation     | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Blinding Smite\|Blinding Smite]]                               | 3           | Evocation     | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Magic Circle\|Magic Circle]]                                   | 3           | Abjuration    | 1 minute     | 10 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Staggering Smite\|Staggering Smite]]                           | 4           | Evocation     | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Find Greater Seed\|Find Greater Seed]]                         | 4           | Conjuration   | 10 minutes   | 30 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Aura of Purity\|Aura of Purity]]                               | 4           | Abjuration    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Aura of Life\|Aura of Life]]                                   | 4           | Abjuration    | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Banishment\|Banishment]]                                       | 4           | Abjuration    | action       | 60 feet                   |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Raise Dead\|Raise Dead]]                                       | 5           | Necromancy    | 1 hour       | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Destructive Wave\|Destructive Wave]]                           | 5           | Evocation     | action       | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Holy Weapon\|Holy Weapon]]                                     | 5           | Evocation     | bonus action | touch                     |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Banishing Smite\|Banishing Smite]]                             | 5           | Abjuration    | bonus action | self                      |
-| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Circle of Power\|Circle of Power]]                             | 5           | Abjuration    | action       | self                      |
+| File                                                                                                            | Spell Level | School        | Casting Time             | Range                     |
+| --------------------------------------------------------------------------------------------------------------- | ----------- | ------------- | ------------------------ | ------------------------- |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Purify Food and Drink\|Purify Food and Drink]]                 | 1           | Transmutation | action                   | <ul><li>10 feet</li></ul> |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Cure Wounds\|Cure Wounds]]                                     | 1           | Evocation     | action                   | <ul><li>touch</li></ul>   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Divine Favour\|Divine Favour]]                                 | 1           | Evocation     | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Searing Smite\|Searing Smite]]                                 | 1           | Evocation     | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Thunderous Smite\|Thunderous Smite]]                           | 1           | Evocation     | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Wrathful Smite\|Wrathful Smite]]                               | 1           | Evocation     | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Bless\|Bless]]                                                 | 1           | Enchantment   | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Command\|Command]]                                             | 1           | Enchantment   | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Compelled Duel\|Compelled Duel]]                               | 1           | Enchantment   | bonus action             | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Heroism\|Heroism]]                                             | 1           | Enchantment   | action                   | <ul><li>touch</li></ul>   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Evil and Good\|Detect Evil and Good]]                   | 1           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Magic\|Detect Magic]]                                   | 1           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Detect Poison and Disease\|Detect Poison and Disease]]         | 1           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Ceremony\|Ceremony]]                                           | 1           | Abjuration    | 1 hour                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Peppermint Plate\|Peppermint Plate]]                           | 1           | Abjuration    | action                   | <ul><li>self</li></ul>    |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Protection from Evil and Good\|Protection from Evil and Good]] | 1           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-1/Shield of Faith\|Shield of Faith]]                             | 1           | Abjuration    | bonus action             | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Locate Object\|Locate Object]]                                 | 2           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Aid\|Aid]]                                                     | 2           | Abjuration    | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Lesser Restoration\|Lesser Restoration]]                       | 2           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Preserve\|Preserve]]                                           | 2           | Abjuration    | <ul><li>action</li></ul> | <ul><li>60 feet</li></ul> |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Protection from Poison\|Protection from Poison]]               | 2           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Protection\|Protection]]                                       | 2           | Abjuration    | <ul><li>action</li></ul> | <ul><li>30 feet</li></ul> |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Warding Bond\|Warding Bond]]                                   | 2           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Spirit Shroud\|Spirit Shroud]]                                 | 3           | Necromancy    | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Crusaders Mantle\|Crusaders Mantle]]                           | 3           | Evocation     | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Daylight\|Daylight]]                                           | 3           | Evocation     | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Create Food and Water\|Create Food and Water]]                 | 3           | Conjuration   | action                   | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Dispel Magic\|Dispel Magic]]                                   | 3           | Abjuration    | action                   | 120 feet                  |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Remove Curse\|Remove Curse]]                                   | 3           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Locate Creature\|Locate Creature]]                             | 4           | Divination    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Death Ward\|Death Ward]]                                       | 4           | Abjuration    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Geas\|Geas]]                                                   | 5           | Enchantment   | 1 minute                 | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Dispel Evil and Good\|Dispel Evil and Good]]                   | 5           | Abjuration    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Magic Weapon\|Magic Weapon]]                                   | 2           | Transmutation | bonus action             | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Gentle Repose\|Gentle Repose]]                                 | 2           | Necromancy    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Branding Smite\|Branding Smite]]                               | 2           | Evocation     | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Prayer of Healing\|Prayer of Healing]]                         | 2           | Evocation     | 10 minutes               | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Zone of Truth\|Zone of Truth]]                                 | 2           | Enchantment   | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Find Steed\|Find Steed]]                                       | 2           | Conjuration   | 10 minutes               | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-2/Find Vehicle (UA)\|Find Vehicle (UA)]]                         | 2           | Conjuration   | 10 minutes               | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Elemental Weapon\|Elemental Weapon]]                           | 3           | Transmutation | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Revivify\|Revivify]]                                           | 3           | Necromancy    | action                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Aura of Vitality\|Aura of Vitality]]                           | 3           | Evocation     | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Blinding Smite\|Blinding Smite]]                               | 3           | Evocation     | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-3/Magic Circle\|Magic Circle]]                                   | 3           | Abjuration    | 1 minute                 | 10 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Staggering Smite\|Staggering Smite]]                           | 4           | Evocation     | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Find Greater Seed\|Find Greater Seed]]                         | 4           | Conjuration   | 10 minutes               | 30 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Aura of Life\|Aura of Life]]                                   | 4           | Abjuration    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Aura of Purity\|Aura of Purity]]                               | 4           | Abjuration    | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-4/Banishment\|Banishment]]                                       | 4           | Abjuration    | action                   | 60 feet                   |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Raise Dead\|Raise Dead]]                                       | 5           | Necromancy    | 1 hour                   | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Destructive Wave\|Destructive Wave]]                           | 5           | Evocation     | action                   | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Holy Weapon\|Holy Weapon]]                                     | 5           | Evocation     | bonus action             | touch                     |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Banishing Smite\|Banishing Smite]]                             | 5           | Abjuration    | bonus action             | self                      |
+| [[Games/TTRPG/DnD5e/PlayerAids/Spells/level-5/Circle of Power\|Circle of Power]]                             | 5           | Abjuration    | action                   | self                      |
 
 { .block-language-dataview}

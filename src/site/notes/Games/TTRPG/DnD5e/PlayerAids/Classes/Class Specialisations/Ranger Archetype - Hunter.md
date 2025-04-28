@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/ranger-archetype-hunter/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/ranger-archetype-hunter/","tags":["sub-class","ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 Emulating the Hunter archetype means accepting your place as a bulwark between the people you protect and the terrors of the wilderness. As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres to towering giants and terrifying dragons.

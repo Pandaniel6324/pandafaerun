@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/light-armor/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/light-armor/","tags":["ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 
@@ -11,9 +11,9 @@ Made from supple and thin materials, light armor favors agile adventurers since 
   
 [[Games/TTRPG/DnD5e/PlayerAids/Items/Studded Leather Armor\|Studded Leather Armor]] Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
-| File                                                                       | Item Rarity | Armor Class               |
-| -------------------------------------------------------------------------- | ----------- | ------------------------- |
-| [[Games/TTRPG/DnD5e/PlayerAids/Items/Leather (Armor)\|Leather (Armor)]] | Standard    | 11 + dex modifier (max 2) |
-| [[Games/TTRPG/DnD5e/PlayerAids/Items/Padded (Armor)\|Padded (Armor)]]   | Standard    | 11 + dex modifier         |
+| File                                                                       | Item Rarity | Armor Class       |
+| -------------------------------------------------------------------------- | ----------- | ----------------- |
+| [[Games/TTRPG/DnD5e/PlayerAids/Items/Leather (Armor)\|Leather (Armor)]] | Standard    | 11 + dex modifier |
+| [[Games/TTRPG/DnD5e/PlayerAids/Items/Padded (Armor)\|Padded (Armor)]]   | Standard    | 11 + dex modifier |
 
 { .block-language-dataview}

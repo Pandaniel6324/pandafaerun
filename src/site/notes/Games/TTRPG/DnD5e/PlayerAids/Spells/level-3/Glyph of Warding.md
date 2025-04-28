@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/glyph-of-warding/","tags":["TTRPG/DND/5e","verbal","somatic","material","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/glyph-of-warding/","tags":["ttrpg/dnd/5e","verbal","somatic","material","spell"],"noteIcon":""}
 ---
 
 

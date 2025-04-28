@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/absorb-elements/","tags":["TTRPG/DND/5e","somatic","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/absorb-elements/","tags":["ttrpg/dnd/5e","somatic","spell"],"noteIcon":""}
 ---
 
 

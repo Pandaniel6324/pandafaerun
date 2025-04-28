@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/sidekicks/sidekick-specialisations/sidekick-warrior/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/sidekicks/sidekick-specialisations/sidekick-warrior/","tags":["ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 

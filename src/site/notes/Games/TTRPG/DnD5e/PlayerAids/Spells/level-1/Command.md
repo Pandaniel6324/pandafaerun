@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/command/","tags":["TTRPG/DND/5e","verbal","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/command/","tags":["ttrpg/dnd/5e","verbal","spell"],"noteIcon":""}
 ---
 
 

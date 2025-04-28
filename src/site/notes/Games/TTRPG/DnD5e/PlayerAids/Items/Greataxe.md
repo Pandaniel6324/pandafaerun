@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/greataxe/","tags":["TTRPG/DND/5e","combat"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/greataxe/","tags":["ttrpg/dnd/5e","combat"],"noteIcon":""}
 ---
 
 

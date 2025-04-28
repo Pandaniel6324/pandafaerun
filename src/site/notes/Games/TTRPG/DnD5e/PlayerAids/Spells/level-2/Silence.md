@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/silence/","tags":["TTRPG/DND/5e","verbal","somatic","concentration","ritual","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-2/silence/","tags":["ttrpg/dnd/5e","verbal","somatic","concentration","ritual","spell"],"noteIcon":""}
 ---
 
 

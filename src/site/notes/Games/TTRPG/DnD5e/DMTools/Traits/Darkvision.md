@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/dm-tools/traits/darkvision/","tags":["TTRPG/DND/5e","Trait"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/dm-tools/traits/darkvision/","tags":["ttrpg/dnd/5e","Trait"],"noteIcon":""}
 ---
 
 

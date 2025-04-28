@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/light/","tags":["TTRPG/DND/5e","verbal","material","Avatar-Creation","utility","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/light/","tags":["ttrpg/dnd/5e","verbal","material","Avatar-Creation","utility","spell"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/prestidigitation/","tags":["TTRPG/DND/5e","verbal","somatic","utility","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/prestidigitation/","tags":["ttrpg/dnd/5e","verbal","somatic","utility","spell"],"noteIcon":""}
 ---
 
 

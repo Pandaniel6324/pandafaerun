@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/drawmij-s-instant-summons/","tags":["TTRPG/DND/5e","verbal","somatic","material","ritual","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/drawmij-s-instant-summons/","tags":["ttrpg/dnd/5e","verbal","somatic","material","ritual","spell"],"noteIcon":""}
 ---
 
 

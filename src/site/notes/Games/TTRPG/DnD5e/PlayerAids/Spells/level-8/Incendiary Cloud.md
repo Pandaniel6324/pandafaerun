@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/incendiary-cloud/","tags":["TTRPG/DND/5e","verbal","somatic","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/incendiary-cloud/","tags":["ttrpg/dnd/5e","verbal","somatic","concentration","spell"],"noteIcon":""}
 ---
 
 

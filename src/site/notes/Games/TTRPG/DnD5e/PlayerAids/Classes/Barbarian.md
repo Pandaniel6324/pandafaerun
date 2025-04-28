@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/barbarian/","tags":["TTRPG/DND/5e","Class"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/barbarian/","tags":["ttrpg/dnd/5e","class"],"noteIcon":""}
 ---
 
 

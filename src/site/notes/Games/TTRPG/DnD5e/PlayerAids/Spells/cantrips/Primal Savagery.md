@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/primal-savagery/","tags":["TTRPG/DND/5e","somatic","damage","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/primal-savagery/","tags":["ttrpg/dnd/5e","somatic","damage","spell"],"noteIcon":""}
 ---
 
 

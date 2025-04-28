@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/abi-dalzim-s-horrid-wilting/","tags":["TTRPG/DND/5e","verbal","somatic","material","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/abi-dalzim-s-horrid-wilting/","tags":["ttrpg/dnd/5e","verbal","somatic","material","spell"],"noteIcon":""}
 ---
 
 

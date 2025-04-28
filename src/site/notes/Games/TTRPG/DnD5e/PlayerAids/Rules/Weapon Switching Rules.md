@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/weapon-switching-rules/","tags":["TTRPG/DND/5e","Rules"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/rules/weapon-switching-rules/","tags":["ttrpg/dnd/5e","Rules"],"noteIcon":""}
 ---
 
 

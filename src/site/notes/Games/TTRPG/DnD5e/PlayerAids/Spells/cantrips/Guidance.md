@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/guidance/","tags":["TTRPG/DND/5e","verbal","somatic","concentration","buff","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/guidance/","tags":["ttrpg/dnd/5e","verbal","somatic","concentration","buff","spell"],"noteIcon":""}
 ---
 
 

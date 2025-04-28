@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/sorcererous-origin-wild-magic/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/sorcererous-origin-wild-magic/","tags":["sub-class","ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 

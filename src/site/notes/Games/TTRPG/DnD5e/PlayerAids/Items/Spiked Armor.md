@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/spiked-armor/","tags":["TTRPG/DND/5e","damage","warding"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/spiked-armor/","tags":["ttrpg/dnd/5e","damage","warding"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/vicious-mockery/","tags":["TTRPG/DND/5e","verbal","damage","debuff","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/vicious-mockery/","tags":["ttrpg/dnd/5e","verbal","damage","debuff","spell"],"noteIcon":""}
 ---
 
 

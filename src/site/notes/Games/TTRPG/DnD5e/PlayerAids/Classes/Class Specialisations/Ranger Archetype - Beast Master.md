@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/ranger-archetype-beast-master/","tags":["Sub-Class","TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/classes/class-specialisations/ranger-archetype-beast-master/","tags":["sub-class","ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 The Beast Master archetype embodies a friendship between the civilized races and the beasts of the wild. United in focus, beast and ranger fight the monsters that threaten civilization and the wilderness alike.

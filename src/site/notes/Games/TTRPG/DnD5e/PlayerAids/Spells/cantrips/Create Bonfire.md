@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/create-bonfire/","tags":["TTRPG/DND/5e","verbal","somatic","concentration","damage","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/create-bonfire/","tags":["ttrpg/dnd/5e","verbal","somatic","concentration","damage","spell"],"noteIcon":""}
 ---
 
 

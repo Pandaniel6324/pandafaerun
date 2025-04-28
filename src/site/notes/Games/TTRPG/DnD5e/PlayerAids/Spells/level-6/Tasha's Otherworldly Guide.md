@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/tasha-s-otherworldly-guide/","tags":["TTRPG/DND/5e","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/tasha-s-otherworldly-guide/","tags":["ttrpg/dnd/5e","concentration","spell"],"noteIcon":""}
 ---
 
 

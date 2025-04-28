@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/message/","tags":["TTRPG/DND/5e","verbal","somatic","material","communication","social","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/message/","tags":["ttrpg/dnd/5e","verbal","somatic","material","communication","social","spell"],"noteIcon":""}
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/summon-fiend/","tags":["TTRPG/DND/5e","concentration","verbal","somatic","material","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-6/summon-fiend/","tags":["ttrpg/dnd/5e","concentration","verbal","somatic","material","spell"],"noteIcon":""}
 ---
 
 Material:  humanoid blood inside a ruby vial worth at least 600 gp

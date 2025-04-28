@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/dwarves/","tags":["TTRPG/DND/5e","Races"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/races/dwarves/","tags":["ttrpg/dnd/5e","races"],"noteIcon":""}
 ---
 
 
@@ -30,5 +30,5 @@
 
 | Sub-Races                     | Source            |
 | ----------------------------- | ----------------- |
-| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Hill Dwarf\|Hill Dwarf]] | Player's Handbook |
-| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Mountain Dwarf\|Mountain Dwarf]]                              |  Player's Handbook                 |
+| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Dwarf Subrace - Hill Dwarf\|Dwarf Subrace - Hill Dwarf]] | Player's Handbook |
+| [[Games/TTRPG/DnD5e/PlayerAids/Races/Sub-races/Dwarf Subrace - Mountain Dwarf\|Dwarf Subrace - Mountain Dwarf]]                              |  Player's Handbook                 |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/ice-knife/","tags":["TTRPG/DND/5e","somatic","material","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-1/ice-knife/","tags":["ttrpg/dnd/5e","somatic","material","spell"],"noteIcon":""}
 ---
 
 

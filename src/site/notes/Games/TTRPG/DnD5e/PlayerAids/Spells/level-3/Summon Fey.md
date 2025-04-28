@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/summon-fey/","tags":["TTRPG/DND/5e","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-3/summon-fey/","tags":["ttrpg/dnd/5e","spell"],"noteIcon":""}
 ---
 
 

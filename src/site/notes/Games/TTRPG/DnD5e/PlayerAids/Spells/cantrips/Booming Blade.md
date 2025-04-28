@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/booming-blade/","tags":["TTRPG/DND/5e","Verbal","Material","damage","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/booming-blade/","tags":["ttrpg/dnd/5e","verbal","material","damage","spell"],"noteIcon":""}
 ---
 
 **Material-Components:   a weapon**

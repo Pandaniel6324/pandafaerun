@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/dominate-monster/","tags":["TTRPG/DND/5e","verbal","somatic","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-8/dominate-monster/","tags":["ttrpg/dnd/5e","verbal","somatic","concentration","spell"],"noteIcon":""}
 ---
 
 

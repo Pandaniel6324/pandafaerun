@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/word-of-radiance/","tags":["TTRPG/DND/5e","verbal","material","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/cantrips/word-of-radiance/","tags":["ttrpg/dnd/5e","verbal","material","spell"],"noteIcon":""}
 ---
 
 

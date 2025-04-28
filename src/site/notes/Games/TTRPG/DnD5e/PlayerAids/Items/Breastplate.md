@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/breastplate/","tags":["TTRPG/DND/5e","warding"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/items/breastplate/","tags":["ttrpg/dnd/5e","warding"],"noteIcon":""}
 ---
 
 

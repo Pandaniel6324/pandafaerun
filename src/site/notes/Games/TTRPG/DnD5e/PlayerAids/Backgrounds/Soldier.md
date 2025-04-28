@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/backgrounds/soldier/","tags":["TTRPG/DND/5e"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/backgrounds/soldier/","tags":["ttrpg/dnd/5e"],"noteIcon":""}
 ---
 
 

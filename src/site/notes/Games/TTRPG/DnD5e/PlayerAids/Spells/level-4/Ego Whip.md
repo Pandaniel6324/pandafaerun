@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-4/ego-whip/","tags":["TTRPG/DND/5e","verbal","concentration","Spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/games/ttrpg/dn-d5e/player-aids/spells/level-4/ego-whip/","tags":["ttrpg/dnd/5e","verbal","concentration","spell"],"noteIcon":""}
 ---
 
 
